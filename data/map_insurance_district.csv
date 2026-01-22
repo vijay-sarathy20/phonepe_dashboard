@@ -1,0 +1,2517 @@
+year,quarter,state,district,count,amount
+2020,Q3,West Bengal,South Twenty Four Parganas,774,175635.0
+2020,Q3,West Bengal,Purba Bardhaman,436,91707.0
+2020,Q3,West Bengal,Uttar Dinajpur,179,29463.0
+2020,Q3,West Bengal,Kalimpong,12,4338.0
+2020,Q3,West Bengal,Murshidabad,458,86182.0
+2020,Q3,West Bengal,Paschim Medinipur,564,133265.0
+2020,Q3,West Bengal,Dakshin Dinajpur,103,18393.0
+2020,Q3,West Bengal,Jalpaiguri,178,50965.0
+2020,Q3,West Bengal,Purulia,228,61556.0
+2020,Q3,West Bengal,North Twenty Four Parganas,2689,617166.0
+2020,Q3,West Bengal,Bankura,318,83055.0
+2020,Q3,West Bengal,Jhargram,63,14667.0
+2020,Q3,West Bengal,Howrah,846,181661.0
+2020,Q3,West Bengal,Hooghly,847,201886.0
+2020,Q3,West Bengal,Kolkata,1833,435620.0
+2020,Q3,West Bengal,Koch Bihar,146,29449.0
+2020,Q3,West Bengal,Alipurduar,129,26591.0
+2020,Q3,West Bengal,Paschim Bardhaman,757,186165.0
+2020,Q3,West Bengal,Nadia,521,110858.0
+2020,Q3,West Bengal,Birbhum,280,56245.0
+2020,Q3,West Bengal,Purba Medinipur,581,142104.0
+2020,Q3,West Bengal,Maldah,322,65977.0
+2020,Q3,West Bengal,Darjiling,332,75534.0
+2020,Q4,West Bengal,South Twenty Four Parganas,607,550802.0
+2020,Q4,West Bengal,Purba Bardhaman,347,230345.0
+2020,Q4,West Bengal,Uttar Dinajpur,160,72655.0
+2020,Q4,West Bengal,Kalimpong,18,25400.0
+2020,Q4,West Bengal,Murshidabad,422,213072.0
+2020,Q4,West Bengal,Paschim Medinipur,358,240211.0
+2020,Q4,West Bengal,Dakshin Dinajpur,72,41799.0
+2020,Q4,West Bengal,Jalpaiguri,162,124777.0
+2020,Q4,West Bengal,Purulia,142,110464.0
+2020,Q4,West Bengal,North Twenty Four Parganas,1914,1511195.0
+2020,Q4,West Bengal,Bankura,242,163294.0
+2020,Q4,West Bengal,Jhargram,44,29925.0
+2020,Q4,West Bengal,Howrah,713,547727.0
+2020,Q4,West Bengal,Hooghly,569,439509.0
+2020,Q4,West Bengal,Kolkata,1692,1306337.0
+2020,Q4,West Bengal,Koch Bihar,379,275427.0
+2020,Q4,West Bengal,Alipurduar,135,88999.0
+2020,Q4,West Bengal,Paschim Bardhaman,563,397183.0
+2020,Q4,West Bengal,Nadia,380,251150.0
+2020,Q4,West Bengal,Birbhum,198,122183.0
+2020,Q4,West Bengal,Purba Medinipur,439,271897.0
+2020,Q4,West Bengal,Maldah,303,197517.0
+2020,Q4,West Bengal,Darjiling,374,298587.0
+2020,Q2,West Bengal,South Twenty Four Parganas,502,100403.0
+2020,Q2,West Bengal,Purba Bardhaman,176,36623.0
+2020,Q2,West Bengal,Uttar Dinajpur,93,19264.0
+2020,Q2,West Bengal,Kalimpong,3,739.0
+2020,Q2,West Bengal,Murshidabad,206,42028.0
+2020,Q2,West Bengal,Paschim Medinipur,270,56494.0
+2020,Q2,West Bengal,Dakshin Dinajpur,29,6935.0
+2020,Q2,West Bengal,Jalpaiguri,91,20417.0
+2020,Q2,West Bengal,Purulia,101,20567.0
+2020,Q2,West Bengal,North Twenty Four Parganas,2047,355405.0
+2020,Q2,West Bengal,Bankura,108,24300.0
+2020,Q2,West Bengal,Jhargram,8,2147.0
+2020,Q2,West Bengal,Howrah,631,114387.0
+2020,Q2,West Bengal,Hooghly,565,108804.0
+2020,Q2,West Bengal,Kolkata,1288,224075.0
+2020,Q2,West Bengal,Koch Bihar,40,8680.0
+2020,Q2,West Bengal,Alipurduar,55,11927.0
+2020,Q2,West Bengal,Paschim Bardhaman,351,71221.0
+2020,Q2,West Bengal,Nadia,317,61692.0
+2020,Q2,West Bengal,Birbhum,109,22565.0
+2020,Q2,West Bengal,Purba Medinipur,274,56622.0
+2020,Q2,West Bengal,Maldah,108,21988.0
+2020,Q2,West Bengal,Darjiling,247,45481.0
+2022,Q2,Tripura,Unakoti,40,63470.0
+2022,Q2,Tripura,Khowai,45,81110.0
+2022,Q2,Tripura,Sepahijala,93,181097.0
+2022,Q2,Tripura,North Tripura,72,124850.0
+2022,Q2,Tripura,Dhalai,68,144009.0
+2022,Q2,Tripura,South Tripura,59,80865.0
+2022,Q2,Tripura,Gomati,101,156478.0
+2022,Q2,Tripura,West Tripura,543,677226.0
+2022,Q1,Tripura,Unakoti,35,56635.0
+2022,Q1,Tripura,Khowai,48,104540.0
+2022,Q1,Tripura,Sepahijala,50,77987.0
+2022,Q1,Tripura,North Tripura,92,181157.0
+2022,Q1,Tripura,Dhalai,70,143221.0
+2022,Q1,Tripura,South Tripura,61,83758.0
+2022,Q1,Tripura,Gomati,82,156558.0
+2022,Q1,Tripura,West Tripura,469,689545.0
+2022,Q4,Tripura,Unakoti,62,100689.0
+2022,Q4,Tripura,Khowai,78,103717.0
+2022,Q4,Tripura,Sepahijala,133,215653.0
+2022,Q4,Tripura,North Tripura,112,153587.0
+2022,Q4,Tripura,Dhalai,97,166204.0
+2022,Q4,Tripura,South Tripura,130,203072.0
+2022,Q4,Tripura,Gomati,150,215799.0
+2022,Q4,Tripura,West Tripura,746,953813.0
+2022,Q3,Tripura,Unakoti,62,99811.0
+2022,Q3,Tripura,Khowai,50,72190.0
+2022,Q3,Tripura,Sepahijala,137,179117.0
+2022,Q3,Tripura,North Tripura,117,198035.0
+2022,Q3,Tripura,Dhalai,97,161415.0
+2022,Q3,Tripura,South Tripura,167,201355.0
+2022,Q3,Tripura,Gomati,137,183401.0
+2022,Q3,Tripura,West Tripura,823,1010660.0
+2021,Q3,Uttar Pradesh,Amethi,182,228933.0
+2021,Q3,Uttar Pradesh,Siddharthnagar,274,279593.0
+2021,Q3,Uttar Pradesh,Auraiya,147,132528.0
+2021,Q3,Uttar Pradesh,Sambhal,102,97686.0
+2021,Q3,Uttar Pradesh,Kanpur Nagar,1414,1206885.0
+2021,Q3,Uttar Pradesh,Aligarh,726,584646.0
+2021,Q3,Uttar Pradesh,Mahoba,73,62704.0
+2021,Q3,Uttar Pradesh,Lucknow,2417,2537773.0
+2021,Q3,Uttar Pradesh,Sant Kabeer Nagar,119,140728.0
+2021,Q3,Uttar Pradesh,Hathras,118,103123.0
+2021,Q3,Uttar Pradesh,Budaun,130,151277.0
+2021,Q3,Uttar Pradesh,Moradabad,1224,740164.0
+2021,Q3,Uttar Pradesh,Kushinagar,328,361385.0
+2021,Q3,Uttar Pradesh,Baghpat,261,326700.0
+2021,Q3,Uttar Pradesh,Shahjahanpur,238,296485.0
+2021,Q3,Uttar Pradesh,Muzaffarnagar,410,538535.0
+2021,Q3,Uttar Pradesh,Ambedkar Nagar,141,166159.0
+2021,Q3,Uttar Pradesh,Bahraich,228,200225.0
+2021,Q3,Uttar Pradesh,Jalaun,158,160855.0
+2021,Q3,Uttar Pradesh,Rampur,306,276971.0
+2021,Q3,Uttar Pradesh,Ballia,349,464345.0
+2021,Q3,Uttar Pradesh,Shravasti,39,32419.0
+2021,Q3,Uttar Pradesh,Kasganj,132,274404.0
+2021,Q3,Uttar Pradesh,Varanasi,762,712414.0
+2021,Q3,Uttar Pradesh,Gautam Buddha Nagar,3442,3050678.0
+2021,Q3,Uttar Pradesh,Basti,587,381572.0
+2021,Q3,Uttar Pradesh,Shamli,211,245883.0
+2021,Q3,Uttar Pradesh,Maharajganj,204,223861.0
+2021,Q3,Uttar Pradesh,Etawah,191,191589.0
+2021,Q3,Uttar Pradesh,Etah,107,118422.0
+2021,Q3,Uttar Pradesh,Banda,95,65425.0
+2021,Q3,Uttar Pradesh,Bijnor,466,538812.0
+2021,Q3,Uttar Pradesh,Hardoi,178,394991.0
+2021,Q3,Uttar Pradesh,Balrampur,118,111309.0
+2021,Q3,Uttar Pradesh,Amroha,223,275961.0
+2021,Q3,Uttar Pradesh,Pilibhit,139,113720.0
+2021,Q3,Uttar Pradesh,Mainpuri,186,166179.0
+2021,Q3,Uttar Pradesh,Kanpur Dehat,135,149610.0
+2021,Q3,Uttar Pradesh,Jaunpur,405,531449.0
+2021,Q3,Uttar Pradesh,Kaushambi,88,119483.0
+2021,Q3,Uttar Pradesh,Hapur,330,431030.0
+2021,Q3,Uttar Pradesh,Hamirpur,103,102710.0
+2021,Q3,Uttar Pradesh,Meerut,1061,1113523.0
+2021,Q3,Uttar Pradesh,Mathura,455,523287.0
+2021,Q3,Uttar Pradesh,Chitrakoot,57,43577.0
+2021,Q3,Uttar Pradesh,Lalitpur,89,70800.0
+2021,Q3,Uttar Pradesh,Mau,240,290101.0
+2021,Q3,Uttar Pradesh,Mirzapur,212,235668.0
+2021,Q3,Uttar Pradesh,Bulandshahr,491,491604.0
+2021,Q3,Uttar Pradesh,Gonda,202,209720.0
+2021,Q3,Uttar Pradesh,Jhansi,426,423210.0
+2021,Q3,Uttar Pradesh,Chandauli,205,178372.0
+2021,Q3,Uttar Pradesh,Bhadohi,310,225341.0
+2021,Q3,Uttar Pradesh,Pratapgarh,274,308744.0
+2021,Q3,Uttar Pradesh,Saharanpur,655,643392.0
+2021,Q3,Uttar Pradesh,Bara Banki,183,193812.0
+2021,Q3,Uttar Pradesh,Bareilly,717,721009.0
+2021,Q3,Uttar Pradesh,Sitapur,178,164926.0
+2021,Q3,Uttar Pradesh,Sultanpur,247,316724.0
+2021,Q3,Uttar Pradesh,Agra,833,766422.0
+2021,Q3,Uttar Pradesh,Fatehpur,168,202889.0
+2021,Q3,Uttar Pradesh,Rae Bareli,221,260492.0
+2021,Q3,Uttar Pradesh,Firozabad,250,197173.0
+2021,Q3,Uttar Pradesh,Kheri,183,175672.0
+2021,Q3,Uttar Pradesh,Gorakhpur,931,958444.0
+2021,Q3,Uttar Pradesh,Unnao,245,263006.0
+2021,Q3,Uttar Pradesh,Prayagraj,1042,1036771.0
+2021,Q3,Uttar Pradesh,Sonbhadra,453,404285.0
+2021,Q3,Uttar Pradesh,Ghazipur,419,400407.0
+2021,Q3,Uttar Pradesh,Farrukhabad,144,158630.0
+2021,Q3,Uttar Pradesh,Kannauj,112,106313.0
+2021,Q3,Uttar Pradesh,Azamgarh,522,553067.0
+2021,Q3,Uttar Pradesh,Ayodhya,316,363307.0
+2021,Q3,Uttar Pradesh,Deoria,320,343998.0
+2021,Q3,Uttar Pradesh,Ghaziabad,3152,3006811.0
+2021,Q2,Uttar Pradesh,Amethi,140,196952.0
+2021,Q2,Uttar Pradesh,Siddharthnagar,170,205924.0
+2021,Q2,Uttar Pradesh,Auraiya,134,137230.0
+2021,Q2,Uttar Pradesh,Sambhal,97,102490.0
+2021,Q2,Uttar Pradesh,Kanpur Nagar,1135,1145126.0
+2021,Q2,Uttar Pradesh,Aligarh,429,443860.0
+2021,Q2,Uttar Pradesh,Mahoba,59,42197.0
+2021,Q2,Uttar Pradesh,Lucknow,1853,1917156.0
+2021,Q2,Uttar Pradesh,Sant Kabeer Nagar,116,188392.0
+2021,Q2,Uttar Pradesh,Hathras,112,90543.0
+2021,Q2,Uttar Pradesh,Budaun,95,94269.0
+2021,Q2,Uttar Pradesh,Moradabad,928,574505.0
+2021,Q2,Uttar Pradesh,Kushinagar,292,269643.0
+2021,Q2,Uttar Pradesh,Baghpat,206,231733.0
+2021,Q2,Uttar Pradesh,Shahjahanpur,163,142296.0
+2021,Q2,Uttar Pradesh,Muzaffarnagar,286,326400.0
+2021,Q2,Uttar Pradesh,Ambedkar Nagar,128,114658.0
+2021,Q2,Uttar Pradesh,Bahraich,133,117033.0
+2021,Q2,Uttar Pradesh,Jalaun,133,144433.0
+2021,Q2,Uttar Pradesh,Rampur,150,128827.0
+2021,Q2,Uttar Pradesh,Ballia,333,354800.0
+2021,Q2,Uttar Pradesh,Shravasti,32,50033.0
+2021,Q2,Uttar Pradesh,Kasganj,87,92337.0
+2021,Q2,Uttar Pradesh,Varanasi,689,536792.0
+2021,Q2,Uttar Pradesh,Gautam Buddha Nagar,2623,2093735.0
+2021,Q2,Uttar Pradesh,Basti,258,286462.0
+2021,Q2,Uttar Pradesh,Shamli,159,151842.0
+2021,Q2,Uttar Pradesh,Maharajganj,199,240069.0
+2021,Q2,Uttar Pradesh,Etawah,171,224445.0
+2021,Q2,Uttar Pradesh,Etah,117,106509.0
+2021,Q2,Uttar Pradesh,Banda,116,115693.0
+2021,Q2,Uttar Pradesh,Bijnor,300,376395.0
+2021,Q2,Uttar Pradesh,Hardoi,156,191551.0
+2021,Q2,Uttar Pradesh,Balrampur,66,136206.0
+2021,Q2,Uttar Pradesh,Amroha,178,242219.0
+2021,Q2,Uttar Pradesh,Pilibhit,104,88035.0
+2021,Q2,Uttar Pradesh,Mainpuri,170,157028.0
+2021,Q2,Uttar Pradesh,Kanpur Dehat,130,150104.0
+2021,Q2,Uttar Pradesh,Jaunpur,455,441297.0
+2021,Q2,Uttar Pradesh,Kaushambi,77,66254.0
+2021,Q2,Uttar Pradesh,Hapur,263,290697.0
+2021,Q2,Uttar Pradesh,Hamirpur,90,95768.0
+2021,Q2,Uttar Pradesh,Meerut,818,933510.0
+2021,Q2,Uttar Pradesh,Mathura,418,409156.0
+2021,Q2,Uttar Pradesh,Chitrakoot,63,69030.0
+2021,Q2,Uttar Pradesh,Lalitpur,73,67155.0
+2021,Q2,Uttar Pradesh,Mau,212,258041.0
+2021,Q2,Uttar Pradesh,Mirzapur,196,183396.0
+2021,Q2,Uttar Pradesh,Bulandshahr,401,422373.0
+2021,Q2,Uttar Pradesh,Gonda,186,165743.0
+2021,Q2,Uttar Pradesh,Jhansi,417,380539.0
+2021,Q2,Uttar Pradesh,Chandauli,149,172618.0
+2021,Q2,Uttar Pradesh,Bhadohi,215,155190.0
+2021,Q2,Uttar Pradesh,Pratapgarh,280,264727.0
+2021,Q2,Uttar Pradesh,Saharanpur,389,378988.0
+2021,Q2,Uttar Pradesh,Bara Banki,131,158646.0
+2021,Q2,Uttar Pradesh,Bareilly,554,530467.0
+2021,Q2,Uttar Pradesh,Sitapur,127,157465.0
+2021,Q2,Uttar Pradesh,Sultanpur,195,277593.0
+2021,Q2,Uttar Pradesh,Agra,643,468307.0
+2021,Q2,Uttar Pradesh,Fatehpur,146,157378.0
+2021,Q2,Uttar Pradesh,Rae Bareli,153,151694.0
+2021,Q2,Uttar Pradesh,Firozabad,207,150020.0
+2021,Q2,Uttar Pradesh,Kheri,192,160317.0
+2021,Q2,Uttar Pradesh,Gorakhpur,720,732382.0
+2021,Q2,Uttar Pradesh,Unnao,189,205019.0
+2021,Q2,Uttar Pradesh,Prayagraj,890,892945.0
+2021,Q2,Uttar Pradesh,Sonbhadra,381,293221.0
+2021,Q2,Uttar Pradesh,Ghazipur,350,351153.0
+2021,Q2,Uttar Pradesh,Farrukhabad,143,124158.0
+2021,Q2,Uttar Pradesh,Kannauj,99,107105.0
+2021,Q2,Uttar Pradesh,Azamgarh,412,451206.0
+2021,Q2,Uttar Pradesh,Ayodhya,286,303734.0
+2021,Q2,Uttar Pradesh,Deoria,382,426284.0
+2021,Q2,Uttar Pradesh,Ghaziabad,2403,2076073.0
+2021,Q4,Uttar Pradesh,Amethi,235,370319.0
+2021,Q4,Uttar Pradesh,Siddharthnagar,263,391652.0
+2021,Q4,Uttar Pradesh,Auraiya,162,277437.0
+2021,Q4,Uttar Pradesh,Sambhal,112,144062.0
+2021,Q4,Uttar Pradesh,Kanpur Nagar,2265,2760463.0
+2021,Q4,Uttar Pradesh,Aligarh,778,1047913.0
+2021,Q4,Uttar Pradesh,Mahoba,91,170037.0
+2021,Q4,Uttar Pradesh,Lucknow,3296,4038538.0
+2021,Q4,Uttar Pradesh,Sant Kabeer Nagar,184,308462.0
+2021,Q4,Uttar Pradesh,Hathras,169,269090.0
+2021,Q4,Uttar Pradesh,Budaun,224,242322.0
+2021,Q4,Uttar Pradesh,Moradabad,896,964494.0
+2021,Q4,Uttar Pradesh,Kushinagar,430,576900.0
+2021,Q4,Uttar Pradesh,Baghpat,337,552533.0
+2021,Q4,Uttar Pradesh,Shahjahanpur,252,466272.0
+2021,Q4,Uttar Pradesh,Muzaffarnagar,554,864369.0
+2021,Q4,Uttar Pradesh,Ambedkar Nagar,171,248115.0
+2021,Q4,Uttar Pradesh,Bahraich,165,209957.0
+2021,Q4,Uttar Pradesh,Jalaun,233,307320.0
+2021,Q4,Uttar Pradesh,Rampur,370,442201.0
+2021,Q4,Uttar Pradesh,Ballia,420,664378.0
+2021,Q4,Uttar Pradesh,Shravasti,61,89146.0
+2021,Q4,Uttar Pradesh,Kasganj,147,194316.0
+2021,Q4,Uttar Pradesh,Varanasi,1190,1393923.0
+2021,Q4,Uttar Pradesh,Gautam Buddha Nagar,4293,5710659.0
+2021,Q4,Uttar Pradesh,Basti,572,566352.0
+2021,Q4,Uttar Pradesh,Shamli,368,388438.0
+2021,Q4,Uttar Pradesh,Maharajganj,333,531627.0
+2021,Q4,Uttar Pradesh,Etawah,286,397667.0
+2021,Q4,Uttar Pradesh,Etah,174,182692.0
+2021,Q4,Uttar Pradesh,Banda,110,128709.0
+2021,Q4,Uttar Pradesh,Bijnor,965,1019601.0
+2021,Q4,Uttar Pradesh,Hardoi,228,373478.0
+2021,Q4,Uttar Pradesh,Balrampur,109,245526.0
+2021,Q4,Uttar Pradesh,Amroha,286,521767.0
+2021,Q4,Uttar Pradesh,Pilibhit,115,182624.0
+2021,Q4,Uttar Pradesh,Mainpuri,207,267670.0
+2021,Q4,Uttar Pradesh,Kanpur Dehat,171,247224.0
+2021,Q4,Uttar Pradesh,Jaunpur,579,871424.0
+2021,Q4,Uttar Pradesh,Kaushambi,206,191092.0
+2021,Q4,Uttar Pradesh,Hapur,441,790289.0
+2021,Q4,Uttar Pradesh,Hamirpur,106,162650.0
+2021,Q4,Uttar Pradesh,Meerut,1601,2421444.0
+2021,Q4,Uttar Pradesh,Mathura,659,885506.0
+2021,Q4,Uttar Pradesh,Chitrakoot,90,102249.0
+2021,Q4,Uttar Pradesh,Lalitpur,127,183668.0
+2021,Q4,Uttar Pradesh,Mau,307,489391.0
+2021,Q4,Uttar Pradesh,Mirzapur,291,473668.0
+2021,Q4,Uttar Pradesh,Bulandshahr,658,975652.0
+2021,Q4,Uttar Pradesh,Gonda,272,403785.0
+2021,Q4,Uttar Pradesh,Jhansi,646,883293.0
+2021,Q4,Uttar Pradesh,Chandauli,251,364193.0
+2021,Q4,Uttar Pradesh,Bhadohi,238,283900.0
+2021,Q4,Uttar Pradesh,Pratapgarh,408,689101.0
+2021,Q4,Uttar Pradesh,Saharanpur,810,1172343.0
+2021,Q4,Uttar Pradesh,Bara Banki,244,400933.0
+2021,Q4,Uttar Pradesh,Bareilly,968,1132558.0
+2021,Q4,Uttar Pradesh,Sitapur,273,405795.0
+2021,Q4,Uttar Pradesh,Sultanpur,335,536950.0
+2021,Q4,Uttar Pradesh,Agra,1238,1610714.0
+2021,Q4,Uttar Pradesh,Fatehpur,318,507428.0
+2021,Q4,Uttar Pradesh,Rae Bareli,310,423265.0
+2021,Q4,Uttar Pradesh,Firozabad,322,449368.0
+2021,Q4,Uttar Pradesh,Kheri,288,416250.0
+2021,Q4,Uttar Pradesh,Gorakhpur,1230,1790715.0
+2021,Q4,Uttar Pradesh,Unnao,463,571428.0
+2021,Q4,Uttar Pradesh,Prayagraj,1599,2221711.0
+2021,Q4,Uttar Pradesh,Sonbhadra,496,576506.0
+2021,Q4,Uttar Pradesh,Ghazipur,604,824427.0
+2021,Q4,Uttar Pradesh,Farrukhabad,185,283615.0
+2021,Q4,Uttar Pradesh,Kannauj,116,158569.0
+2021,Q4,Uttar Pradesh,Azamgarh,804,1053342.0
+2021,Q4,Uttar Pradesh,Ayodhya,361,504210.0
+2021,Q4,Uttar Pradesh,Deoria,412,708131.0
+2021,Q4,Uttar Pradesh,Ghaziabad,4654,5977135.0
+2021,Q1,Uttar Pradesh,Amethi,127,128262.0
+2021,Q1,Uttar Pradesh,Siddharthnagar,132,81962.0
+2021,Q1,Uttar Pradesh,Auraiya,105,81602.0
+2021,Q1,Uttar Pradesh,Sambhal,107,100413.0
+2021,Q1,Uttar Pradesh,Kanpur Nagar,1252,851804.0
+2021,Q1,Uttar Pradesh,Aligarh,423,316086.0
+2021,Q1,Uttar Pradesh,Mahoba,61,41257.0
+2021,Q1,Uttar Pradesh,Lucknow,1660,1301902.0
+2021,Q1,Uttar Pradesh,Sant Kabeer Nagar,138,83030.0
+2021,Q1,Uttar Pradesh,Hathras,130,86056.0
+2021,Q1,Uttar Pradesh,Budaun,108,83738.0
+2021,Q1,Uttar Pradesh,Moradabad,587,305679.0
+2021,Q1,Uttar Pradesh,Kushinagar,316,187446.0
+2021,Q1,Uttar Pradesh,Baghpat,208,178560.0
+2021,Q1,Uttar Pradesh,Shahjahanpur,158,139413.0
+2021,Q1,Uttar Pradesh,Muzaffarnagar,332,244963.0
+2021,Q1,Uttar Pradesh,Ambedkar Nagar,146,131875.0
+2021,Q1,Uttar Pradesh,Bahraich,127,106568.0
+2021,Q1,Uttar Pradesh,Jalaun,139,93053.0
+2021,Q1,Uttar Pradesh,Rampur,125,127531.0
+2021,Q1,Uttar Pradesh,Ballia,257,217592.0
+2021,Q1,Uttar Pradesh,Shravasti,24,12818.0
+2021,Q1,Uttar Pradesh,Kasganj,54,53501.0
+2021,Q1,Uttar Pradesh,Varanasi,739,448948.0
+2021,Q1,Uttar Pradesh,Gautam Buddha Nagar,2704,1750483.0
+2021,Q1,Uttar Pradesh,Basti,209,143349.0
+2021,Q1,Uttar Pradesh,Shamli,244,200342.0
+2021,Q1,Uttar Pradesh,Maharajganj,156,112488.0
+2021,Q1,Uttar Pradesh,Etawah,172,116084.0
+2021,Q1,Uttar Pradesh,Etah,95,58516.0
+2021,Q1,Uttar Pradesh,Banda,98,67712.0
+2021,Q1,Uttar Pradesh,Bijnor,292,284039.0
+2021,Q1,Uttar Pradesh,Hardoi,163,120170.0
+2021,Q1,Uttar Pradesh,Balrampur,100,87229.0
+2021,Q1,Uttar Pradesh,Amroha,169,199135.0
+2021,Q1,Uttar Pradesh,Pilibhit,61,44437.0
+2021,Q1,Uttar Pradesh,Mainpuri,161,101086.0
+2021,Q1,Uttar Pradesh,Kanpur Dehat,109,58523.0
+2021,Q1,Uttar Pradesh,Jaunpur,327,254538.0
+2021,Q1,Uttar Pradesh,Kaushambi,52,40601.0
+2021,Q1,Uttar Pradesh,Hapur,282,304199.0
+2021,Q1,Uttar Pradesh,Hamirpur,66,50437.0
+2021,Q1,Uttar Pradesh,Meerut,799,753509.0
+2021,Q1,Uttar Pradesh,Mathura,426,257241.0
+2021,Q1,Uttar Pradesh,Chitrakoot,63,46461.0
+2021,Q1,Uttar Pradesh,Lalitpur,81,33678.0
+2021,Q1,Uttar Pradesh,Mau,142,148115.0
+2021,Q1,Uttar Pradesh,Mirzapur,153,99406.0
+2021,Q1,Uttar Pradesh,Bulandshahr,404,403287.0
+2021,Q1,Uttar Pradesh,Gonda,162,106578.0
+2021,Q1,Uttar Pradesh,Jhansi,312,200396.0
+2021,Q1,Uttar Pradesh,Chandauli,145,72371.0
+2021,Q1,Uttar Pradesh,Bhadohi,144,88681.0
+2021,Q1,Uttar Pradesh,Pratapgarh,219,193210.0
+2021,Q1,Uttar Pradesh,Saharanpur,461,411120.0
+2021,Q1,Uttar Pradesh,Bara Banki,133,106844.0
+2021,Q1,Uttar Pradesh,Bareilly,408,328455.0
+2021,Q1,Uttar Pradesh,Sitapur,137,99309.0
+2021,Q1,Uttar Pradesh,Sultanpur,212,173606.0
+2021,Q1,Uttar Pradesh,Agra,623,394070.0
+2021,Q1,Uttar Pradesh,Fatehpur,103,71630.0
+2021,Q1,Uttar Pradesh,Rae Bareli,158,147128.0
+2021,Q1,Uttar Pradesh,Firozabad,183,102903.0
+2021,Q1,Uttar Pradesh,Kheri,144,109166.0
+2021,Q1,Uttar Pradesh,Gorakhpur,665,538572.0
+2021,Q1,Uttar Pradesh,Unnao,153,114646.0
+2021,Q1,Uttar Pradesh,Prayagraj,942,675067.0
+2021,Q1,Uttar Pradesh,Sonbhadra,252,186756.0
+2021,Q1,Uttar Pradesh,Ghazipur,333,271399.0
+2021,Q1,Uttar Pradesh,Farrukhabad,115,67014.0
+2021,Q1,Uttar Pradesh,Kannauj,88,67657.0
+2021,Q1,Uttar Pradesh,Azamgarh,286,247198.0
+2021,Q1,Uttar Pradesh,Ayodhya,211,175689.0
+2021,Q1,Uttar Pradesh,Deoria,279,202296.0
+2021,Q1,Uttar Pradesh,Ghaziabad,2252,1736688.0
+2020,Q2,Uttarakhand,Bageshwar,6,1448.0
+2020,Q2,Uttarakhand,Udham Singh Nagar,68,15728.0
+2020,Q2,Uttarakhand,Haridwar,110,21708.0
+2020,Q2,Uttarakhand,Champawat,5,1129.0
+2020,Q2,Uttarakhand,Nainital,63,13166.0
+2020,Q2,Uttarakhand,Dehradun,313,59251.0
+2020,Q2,Uttarakhand,Chamoli,9,1905.0
+2020,Q2,Uttarakhand,Almora,20,4261.0
+2020,Q2,Uttarakhand,Uttarkashi,20,3974.0
+2020,Q2,Uttarakhand,Pithoragarh,17,5076.0
+2020,Q2,Uttarakhand,Rudraprayag,6,1453.0
+2020,Q2,Uttarakhand,Pauri Garhwal,10,2187.0
+2020,Q2,Uttarakhand,Tehri Garhwal,13,3613.0
+2020,Q4,Uttarakhand,Bageshwar,26,26551.0
+2020,Q4,Uttarakhand,Udham Singh Nagar,294,261230.0
+2020,Q4,Uttarakhand,Haridwar,337,341470.0
+2020,Q4,Uttarakhand,Champawat,28,73616.0
+2020,Q4,Uttarakhand,Nainital,169,206547.0
+2020,Q4,Uttarakhand,Dehradun,577,620548.0
+2020,Q4,Uttarakhand,Chamoli,35,56928.0
+2020,Q4,Uttarakhand,Almora,46,65453.0
+2020,Q4,Uttarakhand,Uttarkashi,44,44541.0
+2020,Q4,Uttarakhand,Pithoragarh,42,60841.0
+2020,Q4,Uttarakhand,Rudraprayag,17,18605.0
+2020,Q4,Uttarakhand,Pauri Garhwal,79,95558.0
+2020,Q4,Uttarakhand,Tehri Garhwal,62,90003.0
+2020,Q3,Uttarakhand,Bageshwar,10,3935.0
+2020,Q3,Uttarakhand,Udham Singh Nagar,294,70995.0
+2020,Q3,Uttarakhand,Haridwar,305,79746.0
+2020,Q3,Uttarakhand,Champawat,9,4259.0
+2020,Q3,Uttarakhand,Nainital,102,28588.0
+2020,Q3,Uttarakhand,Dehradun,482,166568.0
+2020,Q3,Uttarakhand,Chamoli,16,5235.0
+2020,Q3,Uttarakhand,Almora,36,15207.0
+2020,Q3,Uttarakhand,Uttarkashi,25,4041.0
+2020,Q3,Uttarakhand,Pithoragarh,32,12065.0
+2020,Q3,Uttarakhand,Rudraprayag,11,3569.0
+2020,Q3,Uttarakhand,Pauri Garhwal,43,11588.0
+2020,Q3,Uttarakhand,Tehri Garhwal,38,12747.0
+2023,Q4,Tamil Nadu,Tiruchirappalli,2475,3470880.0
+2023,Q4,Tamil Nadu,Ramanathapuram,517,640062.0
+2023,Q4,Tamil Nadu,Krishnagiri,3172,4852330.0
+2023,Q4,Tamil Nadu,Cuddalore,1551,2329665.0
+2023,Q4,Tamil Nadu,Kancheepuram,6875,8403688.0
+2023,Q4,Tamil Nadu,Tiruppur,5883,8071753.0
+2023,Q4,Tamil Nadu,Dharmapuri,873,1263490.0
+2023,Q4,Tamil Nadu,Thoothukkudi,907,1457770.0
+2023,Q4,Tamil Nadu,Thanjavur,1407,2075531.0
+2023,Q4,Tamil Nadu,Madurai,4414,5508470.0
+2023,Q4,Tamil Nadu,Tiruvannamalai,1036,1430550.0
+2023,Q4,Tamil Nadu,Salem,3180,4420307.0
+2023,Q4,Tamil Nadu,Nagapattinam,854,1134183.0
+2023,Q4,Tamil Nadu,Tirupathur,669,1068817.0
+2023,Q4,Tamil Nadu,Ariyalur,372,464685.0
+2023,Q4,Tamil Nadu,Chennai,18144,19953865.0
+2023,Q4,Tamil Nadu,The Nilgiris,718,1517410.0
+2023,Q4,Tamil Nadu,Erode,2404,3568004.0
+2023,Q4,Tamil Nadu,Karur,707,1047957.0
+2023,Q4,Tamil Nadu,Kallakkurichi,472,672872.0
+2023,Q4,Tamil Nadu,Viluppuram,1284,1936817.0
+2023,Q4,Tamil Nadu,Pudukkottai,588,917795.0
+2023,Q4,Tamil Nadu,Perambalur,236,323301.0
+2023,Q4,Tamil Nadu,Coimbatore,11552,16411541.0
+2023,Q4,Tamil Nadu,Virudhunagar,925,1311831.0
+2023,Q4,Tamil Nadu,Dindigul,1396,2302850.0
+2023,Q4,Tamil Nadu,Sivaganga,773,1132557.0
+2023,Q4,Tamil Nadu,Tenkasi,636,920704.0
+2023,Q4,Tamil Nadu,Chengalpattu,11085,14820002.0
+2023,Q4,Tamil Nadu,Kanniyakumari,1196,2137532.0
+2023,Q4,Tamil Nadu,Tirunelveli,1313,1737016.0
+2023,Q4,Tamil Nadu,Thiruvallur,12314,14959202.0
+2023,Q4,Tamil Nadu,Theni,936,1403542.0
+2023,Q4,Tamil Nadu,Ranipet,893,1241927.0
+2023,Q4,Tamil Nadu,Namakkal,1329,1930753.0
+2023,Q4,Tamil Nadu,Vellore,1207,1823526.0
+2023,Q4,Tamil Nadu,Thiruvarur,578,770611.0
+2023,Q2,Tamil Nadu,Tiruchirappalli,1715,2570522.0
+2023,Q2,Tamil Nadu,Ramanathapuram,357,503848.0
+2023,Q2,Tamil Nadu,Krishnagiri,2245,3368129.0
+2023,Q2,Tamil Nadu,Cuddalore,1276,1830379.0
+2023,Q2,Tamil Nadu,Kancheepuram,5617,6741272.0
+2023,Q2,Tamil Nadu,Tiruppur,3632,5133652.0
+2023,Q2,Tamil Nadu,Dharmapuri,560,846952.0
+2023,Q2,Tamil Nadu,Thoothukkudi,674,997002.0
+2023,Q2,Tamil Nadu,Thanjavur,1081,1723697.0
+2023,Q2,Tamil Nadu,Madurai,2807,3493908.0
+2023,Q2,Tamil Nadu,Tiruvannamalai,775,1165967.0
+2023,Q2,Tamil Nadu,Salem,2159,3040483.0
+2023,Q2,Tamil Nadu,Nagapattinam,592,894392.0
+2023,Q2,Tamil Nadu,Tirupathur,498,892473.0
+2023,Q2,Tamil Nadu,Ariyalur,234,307459.0
+2023,Q2,Tamil Nadu,Chennai,15678,16453783.0
+2023,Q2,Tamil Nadu,The Nilgiris,492,976952.0
+2023,Q2,Tamil Nadu,Erode,1601,2565724.0
+2023,Q2,Tamil Nadu,Karur,435,711066.0
+2023,Q2,Tamil Nadu,Kallakkurichi,370,611207.0
+2023,Q2,Tamil Nadu,Viluppuram,818,1382534.0
+2023,Q2,Tamil Nadu,Pudukkottai,402,612366.0
+2023,Q2,Tamil Nadu,Perambalur,153,227304.0
+2023,Q2,Tamil Nadu,Coimbatore,7642,11108776.0
+2023,Q2,Tamil Nadu,Virudhunagar,595,908767.0
+2023,Q2,Tamil Nadu,Dindigul,910,1545130.0
+2023,Q2,Tamil Nadu,Sivaganga,466,843986.0
+2023,Q2,Tamil Nadu,Tenkasi,426,743203.0
+2023,Q2,Tamil Nadu,Chengalpattu,9446,12053100.0
+2023,Q2,Tamil Nadu,Kanniyakumari,853,1643425.0
+2023,Q2,Tamil Nadu,Tirunelveli,928,1457940.0
+2023,Q2,Tamil Nadu,Thiruvallur,10840,12569262.0
+2023,Q2,Tamil Nadu,Theni,624,1055890.0
+2023,Q2,Tamil Nadu,Ranipet,649,929549.0
+2023,Q2,Tamil Nadu,Namakkal,878,1377463.0
+2023,Q2,Tamil Nadu,Vellore,865,1475845.0
+2023,Q2,Tamil Nadu,Thiruvarur,405,564784.0
+2023,Q3,Tamil Nadu,Tiruchirappalli,2159,2940470.0
+2023,Q3,Tamil Nadu,Ramanathapuram,416,573665.0
+2023,Q3,Tamil Nadu,Krishnagiri,2762,3917713.0
+2023,Q3,Tamil Nadu,Cuddalore,1568,2412390.0
+2023,Q3,Tamil Nadu,Kancheepuram,6210,7517191.0
+2023,Q3,Tamil Nadu,Tiruppur,4011,5538630.0
+2023,Q3,Tamil Nadu,Dharmapuri,723,1208053.0
+2023,Q3,Tamil Nadu,Thoothukkudi,742,1228771.0
+2023,Q3,Tamil Nadu,Thanjavur,1271,1715958.0
+2023,Q3,Tamil Nadu,Madurai,3482,3880637.0
+2023,Q3,Tamil Nadu,Tiruvannamalai,905,1301476.0
+2023,Q3,Tamil Nadu,Salem,2839,3721101.0
+2023,Q3,Tamil Nadu,Nagapattinam,825,1138414.0
+2023,Q3,Tamil Nadu,Tirupathur,573,887565.0
+2023,Q3,Tamil Nadu,Ariyalur,356,437403.0
+2023,Q3,Tamil Nadu,Chennai,17189,16904783.0
+2023,Q3,Tamil Nadu,The Nilgiris,587,956502.0
+2023,Q3,Tamil Nadu,Erode,1873,2733513.0
+2023,Q3,Tamil Nadu,Karur,556,904019.0
+2023,Q3,Tamil Nadu,Kallakkurichi,468,619617.0
+2023,Q3,Tamil Nadu,Viluppuram,1091,1479600.0
+2023,Q3,Tamil Nadu,Pudukkottai,569,646934.0
+2023,Q3,Tamil Nadu,Perambalur,184,331667.0
+2023,Q3,Tamil Nadu,Coimbatore,9191,12345880.0
+2023,Q3,Tamil Nadu,Virudhunagar,719,959150.0
+2023,Q3,Tamil Nadu,Dindigul,1193,1896683.0
+2023,Q3,Tamil Nadu,Sivaganga,575,842408.0
+2023,Q3,Tamil Nadu,Tenkasi,493,683080.0
+2023,Q3,Tamil Nadu,Chengalpattu,10034,12400195.0
+2023,Q3,Tamil Nadu,Kanniyakumari,946,1689767.0
+2023,Q3,Tamil Nadu,Tirunelveli,1148,1588116.0
+2023,Q3,Tamil Nadu,Thiruvallur,11243,13346229.0
+2023,Q3,Tamil Nadu,Theni,724,1035771.0
+2023,Q3,Tamil Nadu,Ranipet,826,1063558.0
+2023,Q3,Tamil Nadu,Namakkal,1051,1482656.0
+2023,Q3,Tamil Nadu,Vellore,1022,1616090.0
+2023,Q3,Tamil Nadu,Thiruvarur,545,679938.0
+2023,Q1,Tamil Nadu,Tiruchirappalli,1856,2656812.0
+2023,Q1,Tamil Nadu,Ramanathapuram,444,700951.0
+2023,Q1,Tamil Nadu,Krishnagiri,2241,3438813.0
+2023,Q1,Tamil Nadu,Cuddalore,1361,2049733.0
+2023,Q1,Tamil Nadu,Kancheepuram,6509,7876962.0
+2023,Q1,Tamil Nadu,Tiruppur,4156,5722551.0
+2023,Q1,Tamil Nadu,Dharmapuri,555,830407.0
+2023,Q1,Tamil Nadu,Thoothukkudi,695,1064607.0
+2023,Q1,Tamil Nadu,Thanjavur,1165,1743831.0
+2023,Q1,Tamil Nadu,Madurai,3374,4231159.0
+2023,Q1,Tamil Nadu,Tiruvannamalai,763,1064885.0
+2023,Q1,Tamil Nadu,Salem,2276,3567805.0
+2023,Q1,Tamil Nadu,Nagapattinam,628,951441.0
+2023,Q1,Tamil Nadu,Tirupathur,498,811062.0
+2023,Q1,Tamil Nadu,Ariyalur,350,466602.0
+2023,Q1,Tamil Nadu,Chennai,20140,20511279.0
+2023,Q1,Tamil Nadu,The Nilgiris,459,949947.0
+2023,Q1,Tamil Nadu,Erode,1715,2905765.0
+2023,Q1,Tamil Nadu,Karur,529,840372.0
+2023,Q1,Tamil Nadu,Kallakkurichi,378,572962.0
+2023,Q1,Tamil Nadu,Viluppuram,914,1400424.0
+2023,Q1,Tamil Nadu,Pudukkottai,354,477775.0
+2023,Q1,Tamil Nadu,Perambalur,134,224947.0
+2023,Q1,Tamil Nadu,Coimbatore,8237,11516151.0
+2023,Q1,Tamil Nadu,Virudhunagar,747,1009833.0
+2023,Q1,Tamil Nadu,Dindigul,1055,1804978.0
+2023,Q1,Tamil Nadu,Sivaganga,484,754579.0
+2023,Q1,Tamil Nadu,Tenkasi,443,668955.0
+2023,Q1,Tamil Nadu,Chengalpattu,10889,13219385.0
+2023,Q1,Tamil Nadu,Kanniyakumari,938,1672864.0
+2023,Q1,Tamil Nadu,Tirunelveli,968,1396752.0
+2023,Q1,Tamil Nadu,Thiruvallur,11786,13822733.0
+2023,Q1,Tamil Nadu,Theni,637,1061239.0
+2023,Q1,Tamil Nadu,Ranipet,651,893464.0
+2023,Q1,Tamil Nadu,Namakkal,895,1483906.0
+2023,Q1,Tamil Nadu,Vellore,1021,1626820.0
+2023,Q1,Tamil Nadu,Thiruvarur,445,717471.0
+2020,Q4,Telangana,Narayanpet,74,22761.0
+2020,Q4,Telangana,Nalgonda,834,464673.0
+2020,Q4,Telangana,Jangaon,159,73054.0
+2020,Q4,Telangana,Bhadradri Kothagudem,597,290516.0
+2020,Q4,Telangana,Warangal Rural,257,110578.0
+2020,Q4,Telangana,Kumuram Bheem Asifabad,107,49848.0
+2020,Q4,Telangana,Nizamabad,491,256473.0
+2020,Q4,Telangana,Adilabad,174,70112.0
+2020,Q4,Telangana,Rajanna Sircilla,172,61230.0
+2020,Q4,Telangana,Nagarkurnool,175,71716.0
+2020,Q4,Telangana,Peddapalle,408,194179.0
+2020,Q4,Telangana,Nirmal,209,98114.0
+2020,Q4,Telangana,Mahabubabad,204,104128.0
+2020,Q4,Telangana,Sangareddy,797,507751.0
+2020,Q4,Telangana,Wanaparthy,126,51086.0
+2020,Q4,Telangana,Vikarabad,161,76221.0
+2020,Q4,Telangana,Jagtial,296,145110.0
+2020,Q4,Telangana,Yadadri Bhuvanagiri,254,152909.0
+2020,Q4,Telangana,Medak,198,120566.0
+2020,Q4,Telangana,Mahbubnagar,292,152298.0
+2020,Q4,Telangana,Jaya Shankar Bhalupally,151,71066.0
+2020,Q4,Telangana,Warangal Urban,1030,522488.0
+2020,Q4,Telangana,Rangareddy,3486,2124943.0
+2020,Q4,Telangana,Hyderabad,3682,1892565.0
+2020,Q4,Telangana,Suryapet,445,211438.0
+2020,Q4,Telangana,Jogulamba Gadwal,136,42936.0
+2020,Q4,Telangana,Kamareddy,299,131614.0
+2020,Q4,Telangana,Mulugu,84,34417.0
+2020,Q4,Telangana,Medchal Malkajgiri,3298,2034226.0
+2020,Q4,Telangana,Karimnagar,649,307932.0
+2020,Q4,Telangana,Mancherial,515,274989.0
+2020,Q4,Telangana,Siddipet,387,175621.0
+2020,Q4,Telangana,Khammam,814,441541.0
+2020,Q2,Telangana,Narayanpet,21,4626.0
+2020,Q2,Telangana,Nalgonda,335,71500.0
+2020,Q2,Telangana,Jangaon,101,22256.0
+2020,Q2,Telangana,Bhadradri Kothagudem,180,38966.0
+2020,Q2,Telangana,Warangal Rural,100,20821.0
+2020,Q2,Telangana,Kumuram Bheem Asifabad,46,9879.0
+2020,Q2,Telangana,Nizamabad,379,73253.0
+2020,Q2,Telangana,Adilabad,44,9191.0
+2020,Q2,Telangana,Rajanna Sircilla,92,19833.0
+2020,Q2,Telangana,Nagarkurnool,102,21605.0
+2020,Q2,Telangana,Peddapalle,213,44319.0
+2020,Q2,Telangana,Nirmal,70,14299.0
+2020,Q2,Telangana,Mahabubabad,113,23167.0
+2020,Q2,Telangana,Sangareddy,712,134962.0
+2020,Q2,Telangana,Wanaparthy,61,14337.0
+2020,Q2,Telangana,Vikarabad,78,17263.0
+2020,Q2,Telangana,Jagtial,116,26068.0
+2020,Q2,Telangana,Yadadri Bhuvanagiri,132,27809.0
+2020,Q2,Telangana,Medak,77,16071.0
+2020,Q2,Telangana,Mahbubnagar,148,28077.0
+2020,Q2,Telangana,Jaya Shankar Bhalupally,55,12593.0
+2020,Q2,Telangana,Warangal Urban,786,147920.0
+2020,Q2,Telangana,Rangareddy,4495,778492.0
+2020,Q2,Telangana,Hyderabad,4783,805518.0
+2020,Q2,Telangana,Suryapet,183,36435.0
+2020,Q2,Telangana,Jogulamba Gadwal,91,19239.0
+2020,Q2,Telangana,Kamareddy,144,30475.0
+2020,Q2,Telangana,Mulugu,26,6723.0
+2020,Q2,Telangana,Medchal Malkajgiri,4150,711890.0
+2020,Q2,Telangana,Karimnagar,410,78638.0
+2020,Q2,Telangana,Mancherial,220,42506.0
+2020,Q2,Telangana,Siddipet,206,41839.0
+2020,Q2,Telangana,Khammam,334,68883.0
+2020,Q3,Telangana,Narayanpet,149,32049.0
+2020,Q3,Telangana,Nalgonda,1035,269617.0
+2020,Q3,Telangana,Jangaon,273,60575.0
+2020,Q3,Telangana,Bhadradri Kothagudem,816,217549.0
+2020,Q3,Telangana,Warangal Rural,370,94002.0
+2020,Q3,Telangana,Kumuram Bheem Asifabad,142,38117.0
+2020,Q3,Telangana,Nizamabad,857,243682.0
+2020,Q3,Telangana,Adilabad,241,53855.0
+2020,Q3,Telangana,Rajanna Sircilla,185,59989.0
+2020,Q3,Telangana,Nagarkurnool,293,73011.0
+2020,Q3,Telangana,Peddapalle,609,170114.0
+2020,Q3,Telangana,Nirmal,266,72468.0
+2020,Q3,Telangana,Mahabubabad,342,86451.0
+2020,Q3,Telangana,Sangareddy,1442,363881.0
+2020,Q3,Telangana,Wanaparthy,205,52693.0
+2020,Q3,Telangana,Vikarabad,290,69322.0
+2020,Q3,Telangana,Jagtial,490,139624.0
+2020,Q3,Telangana,Yadadri Bhuvanagiri,316,72815.0
+2020,Q3,Telangana,Medak,252,67248.0
+2020,Q3,Telangana,Mahbubnagar,525,130393.0
+2020,Q3,Telangana,Jaya Shankar Bhalupally,206,52742.0
+2020,Q3,Telangana,Warangal Urban,1612,385281.0
+2020,Q3,Telangana,Rangareddy,6340,1509162.0
+2020,Q3,Telangana,Hyderabad,6331,1397580.0
+2020,Q3,Telangana,Suryapet,639,153796.0
+2020,Q3,Telangana,Jogulamba Gadwal,221,54595.0
+2020,Q3,Telangana,Kamareddy,457,118381.0
+2020,Q3,Telangana,Mulugu,107,27634.0
+2020,Q3,Telangana,Medchal Malkajgiri,5929,1415970.0
+2020,Q3,Telangana,Karimnagar,1157,313760.0
+2020,Q3,Telangana,Mancherial,531,142803.0
+2020,Q3,Telangana,Siddipet,541,149772.0
+2020,Q3,Telangana,Khammam,1226,317612.0
+2020,Q2,Sikkim,South,4,1058.0
+2020,Q2,Sikkim,East,16,3449.0
+2020,Q2,Sikkim,North,1,282.0
+2020,Q4,Sikkim,South,11,26418.0
+2020,Q4,Sikkim,West,7,7085.0
+2020,Q4,Sikkim,East,41,26778.0
+2020,Q4,Sikkim,North,8,9933.0
+2020,Q3,Sikkim,South,20,5534.0
+2020,Q3,Sikkim,West,5,1319.0
+2020,Q3,Sikkim,East,66,20284.0
+2020,Q3,Sikkim,North,3,863.0
+2023,Q4,Rajasthan,Pali,1075,2319933.0
+2023,Q4,Rajasthan,Ganganagar,1568,3815148.0
+2023,Q4,Rajasthan,Churu,817,1765488.0
+2023,Q4,Rajasthan,Jaipur,14759,25167653.0
+2023,Q4,Rajasthan,Baran,352,625277.0
+2023,Q4,Rajasthan,Bhilwara,1273,2336387.0
+2023,Q4,Rajasthan,Banswara,376,844405.0
+2023,Q4,Rajasthan,Dungarpur,302,686355.0
+2023,Q4,Rajasthan,Tonk,487,832225.0
+2023,Q4,Rajasthan,Jodhpur,2664,5759170.0
+2023,Q4,Rajasthan,Karauli,513,715305.0
+2023,Q4,Rajasthan,Udaipur,2003,3871070.0
+2023,Q4,Rajasthan,Dausa,735,1310069.0
+2023,Q4,Rajasthan,Nagaur,1116,2578905.0
+2023,Q4,Rajasthan,Bharatpur,1041,1859378.0
+2023,Q4,Rajasthan,Barmer,1178,2154556.0
+2023,Q4,Rajasthan,Ajmer,1592,3250093.0
+2023,Q4,Rajasthan,Chittorgarh,798,1498544.0
+2023,Q4,Rajasthan,Hanumangarh,988,2417402.0
+2023,Q4,Rajasthan,Pratapgarh,234,505797.0
+2023,Q4,Rajasthan,Sawai Madhopur,706,1059545.0
+2023,Q4,Rajasthan,Jalore,857,2009408.0
+2023,Q4,Rajasthan,Bikaner,1063,2566919.0
+2023,Q4,Rajasthan,Sikar,2239,5113462.0
+2023,Q4,Rajasthan,Dholpur,441,640838.0
+2023,Q4,Rajasthan,Sirohi,671,1255661.0
+2023,Q4,Rajasthan,Rajsamand,535,1309132.0
+2023,Q4,Rajasthan,Jaisalmer,448,960645.0
+2023,Q4,Rajasthan,Bundi,456,830508.0
+2023,Q4,Rajasthan,Jhalawar,434,807179.0
+2023,Q4,Rajasthan,Alwar,3719,6055979.0
+2023,Q4,Rajasthan,Kota,2256,3768494.0
+2023,Q4,Rajasthan,Jhunjhunu,2045,4010722.0
+2023,Q3,Rajasthan,Pali,840,1610627.0
+2023,Q3,Rajasthan,Ganganagar,1375,2796149.0
+2023,Q3,Rajasthan,Churu,667,1280151.0
+2023,Q3,Rajasthan,Jaipur,12126,17396150.0
+2023,Q3,Rajasthan,Baran,312,409649.0
+2023,Q3,Rajasthan,Bhilwara,1120,1640986.0
+2023,Q3,Rajasthan,Banswara,261,544118.0
+2023,Q3,Rajasthan,Dungarpur,232,449831.0
+2023,Q3,Rajasthan,Tonk,401,666641.0
+2023,Q3,Rajasthan,Jodhpur,2226,3899276.0
+2023,Q3,Rajasthan,Karauli,311,473379.0
+2023,Q3,Rajasthan,Udaipur,1530,2516943.0
+2023,Q3,Rajasthan,Dausa,636,1013685.0
+2023,Q3,Rajasthan,Nagaur,921,1818965.0
+2023,Q3,Rajasthan,Bharatpur,843,1107577.0
+2023,Q3,Rajasthan,Barmer,982,1729964.0
+2023,Q3,Rajasthan,Ajmer,1264,2227826.0
+2023,Q3,Rajasthan,Chittorgarh,619,959640.0
+2023,Q3,Rajasthan,Hanumangarh,849,1707937.0
+2023,Q3,Rajasthan,Pratapgarh,157,271472.0
+2023,Q3,Rajasthan,Sawai Madhopur,468,514291.0
+2023,Q3,Rajasthan,Jalore,649,1403920.0
+2023,Q3,Rajasthan,Bikaner,878,1575433.0
+2023,Q3,Rajasthan,Sikar,1700,3072011.0
+2023,Q3,Rajasthan,Dholpur,307,381689.0
+2023,Q3,Rajasthan,Sirohi,461,832972.0
+2023,Q3,Rajasthan,Rajsamand,430,805022.0
+2023,Q3,Rajasthan,Jaisalmer,347,668907.0
+2023,Q3,Rajasthan,Bundi,349,509678.0
+2023,Q3,Rajasthan,Jhalawar,339,491062.0
+2023,Q3,Rajasthan,Alwar,2985,4117855.0
+2023,Q3,Rajasthan,Kota,1815,2640773.0
+2023,Q3,Rajasthan,Jhunjhunu,1560,2794205.0
+2023,Q2,Rajasthan,Pali,850,1667300.0
+2023,Q2,Rajasthan,Ganganagar,1338,2918807.0
+2023,Q2,Rajasthan,Churu,621,1213141.0
+2023,Q2,Rajasthan,Jaipur,11344,16436901.0
+2023,Q2,Rajasthan,Baran,257,373784.0
+2023,Q2,Rajasthan,Bhilwara,911,1288386.0
+2023,Q2,Rajasthan,Banswara,279,523173.0
+2023,Q2,Rajasthan,Dungarpur,233,416908.0
+2023,Q2,Rajasthan,Tonk,395,556434.0
+2023,Q2,Rajasthan,Jodhpur,2104,3840402.0
+2023,Q2,Rajasthan,Karauli,282,489116.0
+2023,Q2,Rajasthan,Udaipur,1395,2244456.0
+2023,Q2,Rajasthan,Dausa,553,850262.0
+2023,Q2,Rajasthan,Nagaur,911,1775711.0
+2023,Q2,Rajasthan,Bharatpur,739,1106124.0
+2023,Q2,Rajasthan,Barmer,871,1478565.0
+2023,Q2,Rajasthan,Ajmer,1135,1987074.0
+2023,Q2,Rajasthan,Chittorgarh,531,999797.0
+2023,Q2,Rajasthan,Hanumangarh,910,1871954.0
+2023,Q2,Rajasthan,Pratapgarh,185,330299.0
+2023,Q2,Rajasthan,Sawai Madhopur,430,540892.0
+2023,Q2,Rajasthan,Jalore,629,1584650.0
+2023,Q2,Rajasthan,Bikaner,1056,1718469.0
+2023,Q2,Rajasthan,Sikar,1665,2894145.0
+2023,Q2,Rajasthan,Dholpur,289,380366.0
+2023,Q2,Rajasthan,Sirohi,433,765644.0
+2023,Q2,Rajasthan,Rajsamand,386,732495.0
+2023,Q2,Rajasthan,Jaisalmer,261,485763.0
+2023,Q2,Rajasthan,Bundi,304,506386.0
+2023,Q2,Rajasthan,Jhalawar,360,578321.0
+2023,Q2,Rajasthan,Alwar,2566,3803390.0
+2023,Q2,Rajasthan,Kota,1583,2355864.0
+2023,Q2,Rajasthan,Jhunjhunu,1364,2586470.0
+2023,Q1,Rajasthan,Pali,772,1456379.0
+2023,Q1,Rajasthan,Ganganagar,1361,3188557.0
+2023,Q1,Rajasthan,Churu,568,1077869.0
+2023,Q1,Rajasthan,Jaipur,10690,16192985.0
+2023,Q1,Rajasthan,Baran,197,399654.0
+2023,Q1,Rajasthan,Bhilwara,846,1509755.0
+2023,Q1,Rajasthan,Banswara,213,357252.0
+2023,Q1,Rajasthan,Dungarpur,232,430105.0
+2023,Q1,Rajasthan,Tonk,309,615499.0
+2023,Q1,Rajasthan,Jodhpur,1835,3649973.0
+2023,Q1,Rajasthan,Karauli,269,458990.0
+2023,Q1,Rajasthan,Udaipur,1236,2381337.0
+2023,Q1,Rajasthan,Dausa,540,816764.0
+2023,Q1,Rajasthan,Nagaur,769,1708571.0
+2023,Q1,Rajasthan,Bharatpur,700,1108029.0
+2023,Q1,Rajasthan,Barmer,827,1434427.0
+2023,Q1,Rajasthan,Ajmer,1145,2363147.0
+2023,Q1,Rajasthan,Chittorgarh,519,1034117.0
+2023,Q1,Rajasthan,Hanumangarh,905,2288348.0
+2023,Q1,Rajasthan,Pratapgarh,140,334437.0
+2023,Q1,Rajasthan,Sawai Madhopur,378,490555.0
+2023,Q1,Rajasthan,Jalore,638,1498953.0
+2023,Q1,Rajasthan,Bikaner,824,1735270.0
+2023,Q1,Rajasthan,Sikar,1621,3088894.0
+2023,Q1,Rajasthan,Dholpur,280,403419.0
+2023,Q1,Rajasthan,Sirohi,349,746923.0
+2023,Q1,Rajasthan,Rajsamand,355,712217.0
+2023,Q1,Rajasthan,Jaisalmer,241,476931.0
+2023,Q1,Rajasthan,Bundi,273,528771.0
+2023,Q1,Rajasthan,Jhalawar,281,434432.0
+2023,Q1,Rajasthan,Alwar,2501,3861598.0
+2023,Q1,Rajasthan,Kota,1343,2111503.0
+2023,Q1,Rajasthan,Jhunjhunu,1258,2545389.0
+2022,Q3,Meghalaya,North Garo Hills,12,33084.0
+2022,Q3,Meghalaya,South West Khasi Hills,4,2956.0
+2022,Q3,Meghalaya,West Garo Hills,177,337886.0
+2022,Q3,Meghalaya,South Garo Hills,19,40323.0
+2022,Q3,Meghalaya,East Jaintia Hills,12,16091.0
+2022,Q3,Meghalaya,South West Garo Hills,13,20819.0
+2022,Q3,Meghalaya,East Khasi Hills,267,427341.0
+2022,Q3,Meghalaya,East Garo Hills,18,51275.0
+2022,Q3,Meghalaya,Ribhoi,67,93271.0
+2022,Q3,Meghalaya,West Jaintia Hills,7,11586.0
+2022,Q3,Meghalaya,West Khasi Hills,4,4859.0
+2022,Q1,Meghalaya,North Garo Hills,8,25357.0
+2022,Q1,Meghalaya,South West Khasi Hills,2,16943.0
+2022,Q1,Meghalaya,West Garo Hills,77,173099.0
+2022,Q1,Meghalaya,South Garo Hills,3,2411.0
+2022,Q1,Meghalaya,East Jaintia Hills,17,24138.0
+2022,Q1,Meghalaya,South West Garo Hills,6,8854.0
+2022,Q1,Meghalaya,East Khasi Hills,133,309643.0
+2022,Q1,Meghalaya,East Garo Hills,16,39737.0
+2022,Q1,Meghalaya,Ribhoi,59,103790.0
+2022,Q1,Meghalaya,West Jaintia Hills,9,16740.0
+2022,Q1,Meghalaya,West Khasi Hills,7,8499.0
+2022,Q4,Meghalaya,North Garo Hills,16,34009.0
+2022,Q4,Meghalaya,South West Khasi Hills,1,56.0
+2022,Q4,Meghalaya,West Garo Hills,137,307812.0
+2022,Q4,Meghalaya,South Garo Hills,21,40872.0
+2022,Q4,Meghalaya,East Jaintia Hills,26,16575.0
+2022,Q4,Meghalaya,South West Garo Hills,6,14977.0
+2022,Q4,Meghalaya,East Khasi Hills,293,521881.0
+2022,Q4,Meghalaya,East Garo Hills,24,91125.0
+2022,Q4,Meghalaya,Ribhoi,91,143065.0
+2022,Q4,Meghalaya,West Jaintia Hills,8,7150.0
+2022,Q4,Meghalaya,West Khasi Hills,4,12007.0
+2022,Q2,Meghalaya,North Garo Hills,11,16292.0
+2022,Q2,Meghalaya,West Garo Hills,68,181815.0
+2022,Q2,Meghalaya,South Garo Hills,8,25969.0
+2022,Q2,Meghalaya,East Jaintia Hills,16,56384.0
+2022,Q2,Meghalaya,South West Garo Hills,2,1461.0
+2022,Q2,Meghalaya,East Khasi Hills,190,337842.0
+2022,Q2,Meghalaya,East Garo Hills,16,43473.0
+2022,Q2,Meghalaya,Ribhoi,54,94630.0
+2022,Q2,Meghalaya,West Jaintia Hills,7,9236.0
+2022,Q2,Meghalaya,West Khasi Hills,7,21992.0
+2021,Q2,Mizoram,Serchhip,2,811.0
+2021,Q2,Mizoram,Aizawl,149,105527.0
+2021,Q2,Mizoram,Lunglei,9,2272.0
+2021,Q2,Mizoram,Mamit,4,6121.0
+2021,Q2,Mizoram,Lawngtlai,9,1913.0
+2021,Q2,Mizoram,Kolasib,4,188.0
+2021,Q2,Mizoram,Champhai,8,2921.0
+2021,Q2,Mizoram,Saiha,2,5052.0
+2021,Q3,Mizoram,Serchhip,4,2795.0
+2021,Q3,Mizoram,Aizawl,58,66033.0
+2021,Q3,Mizoram,Lunglei,6,2258.0
+2021,Q3,Mizoram,Mamit,5,5242.0
+2021,Q3,Mizoram,Lawngtlai,4,1076.0
+2021,Q3,Mizoram,Kolasib,2,982.0
+2021,Q3,Mizoram,Champhai,2,5255.0
+2021,Q1,Mizoram,Serchhip,1,33.0
+2021,Q1,Mizoram,Aizawl,374,268255.0
+2021,Q1,Mizoram,Lunglei,6,6233.0
+2021,Q1,Mizoram,Mamit,9,9501.0
+2021,Q1,Mizoram,Lawngtlai,4,2213.0
+2021,Q1,Mizoram,Kolasib,3,2659.0
+2021,Q1,Mizoram,Champhai,16,10334.0
+2021,Q1,Mizoram,Saiha,2,3613.0
+2021,Q4,Mizoram,Serchhip,4,8840.0
+2021,Q4,Mizoram,Aizawl,58,91842.0
+2021,Q4,Mizoram,Lunglei,12,23824.0
+2021,Q4,Mizoram,Mamit,10,14175.0
+2021,Q4,Mizoram,Lawngtlai,6,15826.0
+2021,Q4,Mizoram,Kolasib,5,8865.0
+2021,Q4,Mizoram,Champhai,1,2611.0
+2021,Q4,Mizoram,Saiha,4,9864.0
+2022,Q3,Puducherry,Karaikal,174,251500.0
+2022,Q3,Puducherry,Puducherry,1335,1659848.0
+2022,Q3,Puducherry,Yanam,27,39021.0
+2022,Q3,Puducherry,Mahe,49,75160.0
+2022,Q2,Puducherry,Karaikal,107,163314.0
+2022,Q2,Puducherry,Puducherry,981,1315292.0
+2022,Q2,Puducherry,Yanam,28,39360.0
+2022,Q2,Puducherry,Mahe,40,79820.0
+2022,Q1,Puducherry,Karaikal,113,163884.0
+2022,Q1,Puducherry,Puducherry,1026,1416491.0
+2022,Q1,Puducherry,Yanam,29,31144.0
+2022,Q1,Puducherry,Mahe,31,51885.0
+2022,Q4,Puducherry,Karaikal,304,389357.0
+2022,Q4,Puducherry,Puducherry,1916,2147849.0
+2022,Q4,Puducherry,Yanam,43,76625.0
+2022,Q4,Puducherry,Mahe,68,79299.0
+2023,Q1,Punjab,Shahid Bhagat Singh Nagar,113,270926.0
+2023,Q1,Punjab,Fazilka,279,735752.0
+2023,Q1,Punjab,Barnala,82,244168.0
+2023,Q1,Punjab,Mansa,131,393869.0
+2023,Q1,Punjab,Ludhiana,1837,3230691.0
+2023,Q1,Punjab,Sri Muktsar Sahib,117,392345.0
+2023,Q1,Punjab,Patiala,682,1650931.0
+2023,Q1,Punjab,Pathankot,514,1060019.0
+2023,Q1,Punjab,Fatehgarh Sahib,133,331214.0
+2023,Q1,Punjab,Rupnagar,275,707224.0
+2023,Q1,Punjab,Tarn Taran,203,666379.0
+2023,Q1,Punjab,Sas Nagar,2146,4086044.0
+2023,Q1,Punjab,Sangrur,232,618425.0
+2023,Q1,Punjab,Jalandhar,931,1754296.0
+2023,Q1,Punjab,Bathinda,545,1283520.0
+2023,Q1,Punjab,Kapurthala,294,587248.0
+2023,Q1,Punjab,Firozepur,187,387819.0
+2023,Q1,Punjab,Gurdaspur,353,885643.0
+2023,Q1,Punjab,Amritsar,917,1865322.0
+2023,Q1,Punjab,Faridkot,151,316494.0
+2023,Q1,Punjab,Hoshiarpur,500,1328429.0
+2023,Q1,Punjab,Moga,194,534208.0
+2023,Q4,Punjab,Shahid Bhagat Singh Nagar,107,258431.0
+2023,Q4,Punjab,Fazilka,275,761697.0
+2023,Q4,Punjab,Barnala,92,225787.0
+2023,Q4,Punjab,Mansa,124,335188.0
+2023,Q4,Punjab,Ludhiana,2308,4051850.0
+2023,Q4,Punjab,Sri Muktsar Sahib,133,361455.0
+2023,Q4,Punjab,Patiala,807,1673018.0
+2023,Q4,Punjab,Pathankot,575,1183980.0
+2023,Q4,Punjab,Fatehgarh Sahib,206,360389.0
+2023,Q4,Punjab,Rupnagar,329,908180.0
+2023,Q4,Punjab,Tarn Taran,240,692292.0
+2023,Q4,Punjab,Sas Nagar,2981,5886008.0
+2023,Q4,Punjab,Sangrur,291,788128.0
+2023,Q4,Punjab,Jalandhar,1053,2203746.0
+2023,Q4,Punjab,Bathinda,1139,1993422.0
+2023,Q4,Punjab,Kapurthala,316,623260.0
+2023,Q4,Punjab,Firozepur,274,594646.0
+2023,Q4,Punjab,Gurdaspur,386,1044061.0
+2023,Q4,Punjab,Amritsar,1111,2357920.0
+2023,Q4,Punjab,Faridkot,164,316615.0
+2023,Q4,Punjab,Hoshiarpur,666,1625737.0
+2023,Q4,Punjab,Moga,200,470018.0
+2023,Q2,Punjab,Shahid Bhagat Singh Nagar,102,216603.0
+2023,Q2,Punjab,Fazilka,273,701626.0
+2023,Q2,Punjab,Barnala,100,241128.0
+2023,Q2,Punjab,Mansa,137,337378.0
+2023,Q2,Punjab,Ludhiana,2136,3486226.0
+2023,Q2,Punjab,Sri Muktsar Sahib,123,297738.0
+2023,Q2,Punjab,Patiala,779,1745760.0
+2023,Q2,Punjab,Pathankot,590,1144908.0
+2023,Q2,Punjab,Fatehgarh Sahib,227,534173.0
+2023,Q2,Punjab,Rupnagar,265,614376.0
+2023,Q2,Punjab,Tarn Taran,259,739004.0
+2023,Q2,Punjab,Sas Nagar,2606,4613121.0
+2023,Q2,Punjab,Sangrur,327,798822.0
+2023,Q2,Punjab,Jalandhar,1263,1937881.0
+2023,Q2,Punjab,Bathinda,610,1147800.0
+2023,Q2,Punjab,Kapurthala,327,668704.0
+2023,Q2,Punjab,Firozepur,266,597500.0
+2023,Q2,Punjab,Gurdaspur,373,834823.0
+2023,Q2,Punjab,Amritsar,1606,2519911.0
+2023,Q2,Punjab,Faridkot,137,251682.0
+2023,Q2,Punjab,Hoshiarpur,561,1263496.0
+2023,Q2,Punjab,Moga,120,305515.0
+2023,Q3,Punjab,Shahid Bhagat Singh Nagar,106,246905.0
+2023,Q3,Punjab,Fazilka,301,797585.0
+2023,Q3,Punjab,Barnala,105,253820.0
+2023,Q3,Punjab,Mansa,105,269876.0
+2023,Q3,Punjab,Ludhiana,2423,3264425.0
+2023,Q3,Punjab,Sri Muktsar Sahib,136,367153.0
+2023,Q3,Punjab,Patiala,792,1465777.0
+2023,Q3,Punjab,Pathankot,702,1191858.0
+2023,Q3,Punjab,Fatehgarh Sahib,182,385575.0
+2023,Q3,Punjab,Rupnagar,320,605979.0
+2023,Q3,Punjab,Tarn Taran,275,713622.0
+2023,Q3,Punjab,Sas Nagar,2820,4641417.0
+2023,Q3,Punjab,Sangrur,256,571794.0
+2023,Q3,Punjab,Jalandhar,1329,1743153.0
+2023,Q3,Punjab,Bathinda,691,1369476.0
+2023,Q3,Punjab,Kapurthala,352,621960.0
+2023,Q3,Punjab,Firozepur,270,639042.0
+2023,Q3,Punjab,Gurdaspur,405,899868.0
+2023,Q3,Punjab,Amritsar,1381,2262878.0
+2023,Q3,Punjab,Faridkot,190,300356.0
+2023,Q3,Punjab,Hoshiarpur,730,1422580.0
+2023,Q3,Punjab,Moga,177,426389.0
+2021,Q2,Nagaland,Mon,4,13636.0
+2021,Q2,Nagaland,Phek,2,2504.0
+2021,Q2,Nagaland,Mokokchung,6,11572.0
+2021,Q2,Nagaland,Kohima,7,2618.0
+2021,Q2,Nagaland,Peren,3,472.0
+2021,Q2,Nagaland,Dimapur,61,107022.0
+2021,Q2,Nagaland,Zunheboto,1,1608.0
+2021,Q2,Nagaland,Wokha,1,47.0
+2021,Q3,Nagaland,Mon,2,96.0
+2021,Q3,Nagaland,Phek,4,3770.0
+2021,Q3,Nagaland,Mokokchung,4,2596.0
+2021,Q3,Nagaland,Kohima,11,18701.0
+2021,Q3,Nagaland,Tuensang,1,48.0
+2021,Q3,Nagaland,Peren,1,236.0
+2021,Q3,Nagaland,Dimapur,66,98101.0
+2021,Q3,Nagaland,Wokha,2,95.0
+2021,Q4,Nagaland,Mon,2,4069.0
+2021,Q4,Nagaland,Phek,5,5615.0
+2021,Q4,Nagaland,Longleng,3,7896.0
+2021,Q4,Nagaland,Mokokchung,13,36881.0
+2021,Q4,Nagaland,Kiphire,1,3477.0
+2021,Q4,Nagaland,Kohima,17,25180.0
+2021,Q4,Nagaland,Tuensang,3,9471.0
+2021,Q4,Nagaland,Peren,4,18740.0
+2021,Q4,Nagaland,Dimapur,133,229207.0
+2021,Q4,Nagaland,Zunheboto,1,425.0
+2021,Q4,Nagaland,Wokha,1,463.0
+2021,Q1,Nagaland,Mon,5,688.0
+2021,Q1,Nagaland,Longleng,2,702.0
+2021,Q1,Nagaland,Mokokchung,2,1256.0
+2021,Q1,Nagaland,Kiphire,1,33.0
+2021,Q1,Nagaland,Kohima,9,1540.0
+2021,Q1,Nagaland,Tuensang,3,868.0
+2021,Q1,Nagaland,Peren,1,33.0
+2021,Q1,Nagaland,Dimapur,48,33072.0
+2021,Q1,Nagaland,Zunheboto,4,1250.0
+2021,Q1,Nagaland,Wokha,4,3531.0
+2020,Q2,Odisha,Rayagada,84,16524.0
+2020,Q2,Odisha,Koraput,55,11009.0
+2020,Q2,Odisha,Malkangiri,10,2253.0
+2020,Q2,Odisha,Sambalpur,110,23412.0
+2020,Q2,Odisha,Kalahandi,47,11014.0
+2020,Q2,Odisha,Anugul,92,18236.0
+2020,Q2,Odisha,Ganjam,235,49936.0
+2020,Q2,Odisha,Jajapur,97,21660.0
+2020,Q2,Odisha,Bargarh,37,8191.0
+2020,Q2,Odisha,Dhenkanal,61,13900.0
+2020,Q2,Odisha,Bhadrak,55,12756.0
+2020,Q2,Odisha,Nuapada,21,4878.0
+2020,Q2,Odisha,Kendujhar,76,17997.0
+2020,Q2,Odisha,Mayurbhanj,82,17980.0
+2020,Q2,Odisha,Jharsuguda,66,14004.0
+2020,Q2,Odisha,Kandhamal,18,4445.0
+2020,Q2,Odisha,Deogarh,8,1803.0
+2020,Q2,Odisha,Sundargarh,145,30108.0
+2020,Q2,Odisha,Jagatsinghapur,52,11187.0
+2020,Q2,Odisha,Balangir,55,12056.0
+2020,Q2,Odisha,Baleshwar,154,32694.0
+2020,Q2,Odisha,Puri,93,19503.0
+2020,Q2,Odisha,Sonepur,19,4257.0
+2020,Q2,Odisha,Khordha,948,176670.0
+2020,Q2,Odisha,Boudh,14,3232.0
+2020,Q2,Odisha,Gajapati,22,5044.0
+2020,Q2,Odisha,Nayagarh,25,6587.0
+2020,Q2,Odisha,Nabarangpur,39,8270.0
+2020,Q2,Odisha,Kendrapara,40,9135.0
+2020,Q2,Odisha,Cuttack,221,46452.0
+2020,Q3,Odisha,Rayagada,292,81488.0
+2020,Q3,Odisha,Koraput,247,66184.0
+2020,Q3,Odisha,Malkangiri,91,26229.0
+2020,Q3,Odisha,Sambalpur,382,104804.0
+2020,Q3,Odisha,Kalahandi,236,59524.0
+2020,Q3,Odisha,Anugul,289,70027.0
+2020,Q3,Odisha,Ganjam,765,176071.0
+2020,Q3,Odisha,Jajapur,431,93403.0
+2020,Q3,Odisha,Bargarh,275,84717.0
+2020,Q3,Odisha,Dhenkanal,229,56140.0
+2020,Q3,Odisha,Bhadrak,249,59839.0
+2020,Q3,Odisha,Nuapada,84,22284.0
+2020,Q3,Odisha,Kendujhar,480,101824.0
+2020,Q3,Odisha,Mayurbhanj,331,83843.0
+2020,Q3,Odisha,Jharsuguda,233,59547.0
+2020,Q3,Odisha,Kandhamal,88,22279.0
+2020,Q3,Odisha,Deogarh,17,3094.0
+2020,Q3,Odisha,Sundargarh,602,150334.0
+2020,Q3,Odisha,Jagatsinghapur,248,60015.0
+2020,Q3,Odisha,Balangir,316,88942.0
+2020,Q3,Odisha,Baleshwar,429,97503.0
+2020,Q3,Odisha,Puri,376,85225.0
+2020,Q3,Odisha,Sonepur,84,21194.0
+2020,Q3,Odisha,Khordha,2540,565649.0
+2020,Q3,Odisha,Boudh,66,16677.0
+2020,Q3,Odisha,Gajapati,136,32456.0
+2020,Q3,Odisha,Nayagarh,171,40330.0
+2020,Q3,Odisha,Nabarangpur,115,33225.0
+2020,Q3,Odisha,Kendrapara,200,41317.0
+2020,Q3,Odisha,Cuttack,953,236027.0
+2020,Q4,Odisha,Rayagada,141,85987.0
+2020,Q4,Odisha,Koraput,171,85777.0
+2020,Q4,Odisha,Malkangiri,69,57908.0
+2020,Q4,Odisha,Sambalpur,225,119248.0
+2020,Q4,Odisha,Kalahandi,158,88400.0
+2020,Q4,Odisha,Anugul,251,167432.0
+2020,Q4,Odisha,Ganjam,602,320130.0
+2020,Q4,Odisha,Jajapur,300,152053.0
+2020,Q4,Odisha,Bargarh,125,66666.0
+2020,Q4,Odisha,Dhenkanal,197,126487.0
+2020,Q4,Odisha,Bhadrak,202,115436.0
+2020,Q4,Odisha,Nuapada,64,31837.0
+2020,Q4,Odisha,Kendujhar,264,141631.0
+2020,Q4,Odisha,Mayurbhanj,209,98405.0
+2020,Q4,Odisha,Jharsuguda,177,99479.0
+2020,Q4,Odisha,Kandhamal,65,33793.0
+2020,Q4,Odisha,Deogarh,39,20606.0
+2020,Q4,Odisha,Sundargarh,376,244881.0
+2020,Q4,Odisha,Jagatsinghapur,179,91541.0
+2020,Q4,Odisha,Balangir,163,63520.0
+2020,Q4,Odisha,Baleshwar,294,153833.0
+2020,Q4,Odisha,Puri,286,111526.0
+2020,Q4,Odisha,Sonepur,64,25723.0
+2020,Q4,Odisha,Khordha,1675,954884.0
+2020,Q4,Odisha,Boudh,43,27572.0
+2020,Q4,Odisha,Gajapati,64,41276.0
+2020,Q4,Odisha,Nayagarh,99,59634.0
+2020,Q4,Odisha,Nabarangpur,83,78674.0
+2020,Q4,Odisha,Kendrapara,176,88668.0
+2020,Q4,Odisha,Cuttack,765,455694.0
+2023,Q1,Manipur,Kangpokpi,12,50757.0
+2023,Q1,Manipur,Noney,2,1472.0
+2023,Q1,Manipur,Imphal East,47,90627.0
+2023,Q1,Manipur,Thoubal,10,23968.0
+2023,Q1,Manipur,Kakching,4,19478.0
+2023,Q1,Manipur,Jiribam,5,22938.0
+2023,Q1,Manipur,Ukhrul,5,18296.0
+2023,Q1,Manipur,Tamenglong,2,4125.0
+2023,Q1,Manipur,Chandel,9,15346.0
+2023,Q1,Manipur,Bishnupur,11,31927.0
+2023,Q1,Manipur,Senapati,9,30067.0
+2023,Q1,Manipur,Churachandpur,29,75246.0
+2023,Q1,Manipur,Tengnoupal,8,46764.0
+2023,Q1,Manipur,Imphal West,69,201073.0
+2023,Q3,Manipur,Tamenglong,3,13492.0
+2023,Q3,Manipur,Kangpokpi,6,13409.0
+2023,Q3,Manipur,Chandel,1,2024.0
+2023,Q3,Manipur,Bishnupur,3,8293.0
+2023,Q3,Manipur,Imphal East,11,26461.0
+2023,Q3,Manipur,Senapati,4,6725.0
+2023,Q3,Manipur,Churachandpur,4,8758.0
+2023,Q3,Manipur,Thoubal,3,9675.0
+2023,Q3,Manipur,Tengnoupal,1,782.0
+2023,Q3,Manipur,Jiribam,4,23164.0
+2023,Q3,Manipur,Ukhrul,1,5822.0
+2023,Q3,Manipur,Imphal West,35,74416.0
+2023,Q4,Manipur,Kangpokpi,21,63414.0
+2023,Q4,Manipur,Noney,1,3518.0
+2023,Q4,Manipur,Imphal East,65,104022.0
+2023,Q4,Manipur,Thoubal,4,9424.0
+2023,Q4,Manipur,Kakching,2,18426.0
+2023,Q4,Manipur,Jiribam,16,32180.0
+2023,Q4,Manipur,Ukhrul,3,3639.0
+2023,Q4,Manipur,Tamenglong,3,6366.0
+2023,Q4,Manipur,Chandel,2,6100.0
+2023,Q4,Manipur,Bishnupur,15,38427.0
+2023,Q4,Manipur,Senapati,4,15815.0
+2023,Q4,Manipur,Churachandpur,4,8832.0
+2023,Q4,Manipur,Tengnoupal,1,189.0
+2023,Q4,Manipur,Imphal West,84,166274.0
+2023,Q2,Manipur,Tamenglong,3,10701.0
+2023,Q2,Manipur,Kangpokpi,11,23066.0
+2023,Q2,Manipur,Chandel,1,3561.0
+2023,Q2,Manipur,Bishnupur,11,54232.0
+2023,Q2,Manipur,Imphal East,30,81733.0
+2023,Q2,Manipur,Senapati,4,14728.0
+2023,Q2,Manipur,Churachandpur,9,17080.0
+2023,Q2,Manipur,Thoubal,5,14680.0
+2023,Q2,Manipur,Kakching,8,24668.0
+2023,Q2,Manipur,Tengnoupal,1,5809.0
+2023,Q2,Manipur,Jiribam,3,7179.0
+2023,Q2,Manipur,Imphal West,37,84234.0
+2022,Q4,Maharashtra,Jalgaon,1799,2793144.0
+2022,Q4,Maharashtra,Latur,1372,1999046.0
+2022,Q4,Maharashtra,Thane,20282,24614041.0
+2022,Q4,Maharashtra,Bhandara,606,1107669.0
+2022,Q4,Maharashtra,Nandurbar,424,893402.0
+2022,Q4,Maharashtra,Chandrapur,1432,2406558.0
+2022,Q4,Maharashtra,Kolhapur,2428,4332767.0
+2022,Q4,Maharashtra,Solapur,3838,5560713.0
+2022,Q4,Maharashtra,Mumbai,5857,6447594.0
+2022,Q4,Maharashtra,Sindhudurg,604,1239446.0
+2022,Q4,Maharashtra,Dhule,772,1171797.0
+2022,Q4,Maharashtra,Wardha,989,1438515.0
+2022,Q4,Maharashtra,Parbhani,513,758986.0
+2022,Q4,Maharashtra,Mumbai Suburban,16192,18884324.0
+2022,Q4,Maharashtra,Hingoli,236,275612.0
+2022,Q4,Maharashtra,Ratnagiri,978,1832093.0
+2022,Q4,Maharashtra,Nanded,1376,1743570.0
+2022,Q4,Maharashtra,Osmanabad,589,1129877.0
+2022,Q4,Maharashtra,Nagpur,8811,11940400.0
+2022,Q4,Maharashtra,Buldhana,860,1332394.0
+2022,Q4,Maharashtra,Nashik,5371,8785824.0
+2022,Q4,Maharashtra,Akola,629,1069007.0
+2022,Q4,Maharashtra,Yavatmal,782,1415444.0
+2022,Q4,Maharashtra,Aurangabad,2830,4070884.0
+2022,Q4,Maharashtra,Amravati,1797,2746860.0
+2022,Q4,Maharashtra,Washim,291,427885.0
+2022,Q4,Maharashtra,Sangli,1236,2443988.0
+2022,Q4,Maharashtra,Gadchiroli,305,471075.0
+2022,Q4,Maharashtra,Raigad,5108,7544340.0
+2022,Q4,Maharashtra,Palghar,4574,5754546.0
+2022,Q4,Maharashtra,Jalna,637,922530.0
+2022,Q4,Maharashtra,Gondia,494,839559.0
+2022,Q4,Maharashtra,Ahmednagar,2341,3678152.0
+2022,Q4,Maharashtra,Pune,27018,38292195.0
+2022,Q4,Maharashtra,Beed,913,1405508.0
+2022,Q4,Maharashtra,Satara,1616,3145903.0
+2022,Q3,Maharashtra,Jalgaon,1406,2095347.0
+2022,Q3,Maharashtra,Latur,1213,1560802.0
+2022,Q3,Maharashtra,Thane,13402,15693837.0
+2022,Q3,Maharashtra,Bhandara,512,774688.0
+2022,Q3,Maharashtra,Nandurbar,278,560241.0
+2022,Q3,Maharashtra,Chandrapur,1061,1571507.0
+2022,Q3,Maharashtra,Kolhapur,1686,2611811.0
+2022,Q3,Maharashtra,Solapur,2464,3354047.0
+2022,Q3,Maharashtra,Mumbai,4339,4534700.0
+2022,Q3,Maharashtra,Sindhudurg,440,698895.0
+2022,Q3,Maharashtra,Dhule,610,843391.0
+2022,Q3,Maharashtra,Wardha,430,631335.0
+2022,Q3,Maharashtra,Parbhani,370,428203.0
+2022,Q3,Maharashtra,Mumbai Suburban,11136,11840245.0
+2022,Q3,Maharashtra,Hingoli,225,300122.0
+2022,Q3,Maharashtra,Ratnagiri,789,1244929.0
+2022,Q3,Maharashtra,Nanded,1048,1231006.0
+2022,Q3,Maharashtra,Osmanabad,456,676086.0
+2022,Q3,Maharashtra,Nagpur,6993,8397314.0
+2022,Q3,Maharashtra,Buldhana,734,935635.0
+2022,Q3,Maharashtra,Nashik,4029,5861346.0
+2022,Q3,Maharashtra,Akola,462,615704.0
+2022,Q3,Maharashtra,Yavatmal,565,958314.0
+2022,Q3,Maharashtra,Aurangabad,2318,2587715.0
+2022,Q3,Maharashtra,Amravati,1337,1719713.0
+2022,Q3,Maharashtra,Washim,255,310419.0
+2022,Q3,Maharashtra,Sangli,965,1739650.0
+2022,Q3,Maharashtra,Gadchiroli,249,456816.0
+2022,Q3,Maharashtra,Raigad,3201,4376980.0
+2022,Q3,Maharashtra,Palghar,3351,3849266.0
+2022,Q3,Maharashtra,Jalna,524,533938.0
+2022,Q3,Maharashtra,Gondia,408,655234.0
+2022,Q3,Maharashtra,Ahmednagar,1880,2485064.0
+2022,Q3,Maharashtra,Pune,19899,24823260.0
+2022,Q3,Maharashtra,Beed,775,971755.0
+2022,Q3,Maharashtra,Satara,1148,1905893.0
+2022,Q2,Maharashtra,Jalgaon,1270,1784469.0
+2022,Q2,Maharashtra,Latur,875,1180019.0
+2022,Q2,Maharashtra,Thane,12306,14514282.0
+2022,Q2,Maharashtra,Bhandara,310,503043.0
+2022,Q2,Maharashtra,Nandurbar,310,620354.0
+2022,Q2,Maharashtra,Chandrapur,912,1421979.0
+2022,Q2,Maharashtra,Kolhapur,1714,2813708.0
+2022,Q2,Maharashtra,Solapur,1996,2751216.0
+2022,Q2,Maharashtra,Mumbai,3914,4071523.0
+2022,Q2,Maharashtra,Sindhudurg,433,889395.0
+2022,Q2,Maharashtra,Dhule,540,809964.0
+2022,Q2,Maharashtra,Wardha,366,569495.0
+2022,Q2,Maharashtra,Parbhani,324,367858.0
+2022,Q2,Maharashtra,Mumbai Suburban,9944,10743651.0
+2022,Q2,Maharashtra,Hingoli,173,221227.0
+2022,Q2,Maharashtra,Ratnagiri,644,1003623.0
+2022,Q2,Maharashtra,Nanded,781,983825.0
+2022,Q2,Maharashtra,Osmanabad,375,597547.0
+2022,Q2,Maharashtra,Nagpur,5933,7435720.0
+2022,Q2,Maharashtra,Buldhana,572,794419.0
+2022,Q2,Maharashtra,Nashik,3745,5525097.0
+2022,Q2,Maharashtra,Akola,383,557549.0
+2022,Q2,Maharashtra,Yavatmal,457,708513.0
+2022,Q2,Maharashtra,Aurangabad,1695,2140266.0
+2022,Q2,Maharashtra,Amravati,1091,1483074.0
+2022,Q2,Maharashtra,Washim,189,325669.0
+2022,Q2,Maharashtra,Sangli,961,1712238.0
+2022,Q2,Maharashtra,Gadchiroli,208,367660.0
+2022,Q2,Maharashtra,Raigad,2914,4274798.0
+2022,Q2,Maharashtra,Palghar,2860,3354545.0
+2022,Q2,Maharashtra,Jalna,391,474300.0
+2022,Q2,Maharashtra,Gondia,322,516395.0
+2022,Q2,Maharashtra,Ahmednagar,1450,2250896.0
+2022,Q2,Maharashtra,Pune,18712,24072589.0
+2022,Q2,Maharashtra,Beed,613,796168.0
+2022,Q2,Maharashtra,Satara,1252,1966860.0
+2022,Q1,Maharashtra,Jalgaon,1410,2149096.0
+2022,Q1,Maharashtra,Latur,1061,1538194.0
+2022,Q1,Maharashtra,Thane,14272,16536659.0
+2022,Q1,Maharashtra,Bhandara,359,650491.0
+2022,Q1,Maharashtra,Nandurbar,305,546933.0
+2022,Q1,Maharashtra,Chandrapur,1125,1796858.0
+2022,Q1,Maharashtra,Kolhapur,1815,3158332.0
+2022,Q1,Maharashtra,Solapur,4282,5201915.0
+2022,Q1,Maharashtra,Mumbai,4159,4477237.0
+2022,Q1,Maharashtra,Sindhudurg,447,780313.0
+2022,Q1,Maharashtra,Dhule,525,940795.0
+2022,Q1,Maharashtra,Wardha,440,708586.0
+2022,Q1,Maharashtra,Parbhani,375,458862.0
+2022,Q1,Maharashtra,Mumbai Suburban,10457,11756037.0
+2022,Q1,Maharashtra,Hingoli,217,313405.0
+2022,Q1,Maharashtra,Ratnagiri,821,1224460.0
+2022,Q1,Maharashtra,Nanded,880,1194883.0
+2022,Q1,Maharashtra,Osmanabad,437,768384.0
+2022,Q1,Maharashtra,Nagpur,6568,8328077.0
+2022,Q1,Maharashtra,Buldhana,548,917050.0
+2022,Q1,Maharashtra,Nashik,3412,5438097.0
+2022,Q1,Maharashtra,Akola,401,618148.0
+2022,Q1,Maharashtra,Yavatmal,583,874592.0
+2022,Q1,Maharashtra,Aurangabad,1905,2477811.0
+2022,Q1,Maharashtra,Amravati,1089,1731512.0
+2022,Q1,Maharashtra,Washim,163,214935.0
+2022,Q1,Maharashtra,Sangli,922,1798327.0
+2022,Q1,Maharashtra,Gadchiroli,243,433354.0
+2022,Q1,Maharashtra,Raigad,3236,4805540.0
+2022,Q1,Maharashtra,Palghar,3179,4035103.0
+2022,Q1,Maharashtra,Jalna,427,584157.0
+2022,Q1,Maharashtra,Gondia,375,752465.0
+2022,Q1,Maharashtra,Ahmednagar,1498,2370143.0
+2022,Q1,Maharashtra,Pune,17790,24312875.0
+2022,Q1,Maharashtra,Beed,744,973322.0
+2022,Q1,Maharashtra,Satara,1545,2544980.0
+2021,Q2,Kerala,Thiruvananthapuram,1176,1162796.0
+2021,Q2,Kerala,Kasaragod,253,295694.0
+2021,Q2,Kerala,Malappuram,849,939169.0
+2021,Q2,Kerala,Pathanamthitta,242,285612.0
+2021,Q2,Kerala,Wayanad,169,174912.0
+2021,Q2,Kerala,Alappuzha,499,499709.0
+2021,Q2,Kerala,Kozhikode,1092,1095684.0
+2021,Q2,Kerala,Kollam,669,747935.0
+2021,Q2,Kerala,Thrissur,820,831809.0
+2021,Q2,Kerala,Palakkad,551,550644.0
+2021,Q2,Kerala,Kannur,541,605434.0
+2021,Q2,Kerala,Kottayam,484,503168.0
+2021,Q2,Kerala,Ernakulam,1939,1728254.0
+2021,Q2,Kerala,Idukki,246,255768.0
+2021,Q3,Kerala,Thiruvananthapuram,1273,1437314.0
+2021,Q3,Kerala,Kasaragod,362,454906.0
+2021,Q3,Kerala,Malappuram,1102,1488543.0
+2021,Q3,Kerala,Pathanamthitta,282,368122.0
+2021,Q3,Kerala,Wayanad,240,324202.0
+2021,Q3,Kerala,Alappuzha,629,875110.0
+2021,Q3,Kerala,Kozhikode,1188,1366856.0
+2021,Q3,Kerala,Kollam,836,1078023.0
+2021,Q3,Kerala,Thrissur,878,954447.0
+2021,Q3,Kerala,Palakkad,622,741332.0
+2021,Q3,Kerala,Kannur,745,940147.0
+2021,Q3,Kerala,Kottayam,495,759525.0
+2021,Q3,Kerala,Ernakulam,2041,2178118.0
+2021,Q3,Kerala,Idukki,233,289001.0
+2021,Q4,Kerala,Thiruvananthapuram,2400,3779310.0
+2021,Q4,Kerala,Kasaragod,615,1112685.0
+2021,Q4,Kerala,Malappuram,1926,3110462.0
+2021,Q4,Kerala,Pathanamthitta,534,1012213.0
+2021,Q4,Kerala,Wayanad,427,722867.0
+2021,Q4,Kerala,Alappuzha,1251,1905411.0
+2021,Q4,Kerala,Kozhikode,1871,2956875.0
+2021,Q4,Kerala,Kollam,1486,2426845.0
+2021,Q4,Kerala,Thrissur,1466,2429009.0
+2021,Q4,Kerala,Palakkad,1054,1728168.0
+2021,Q4,Kerala,Kannur,1255,2260422.0
+2021,Q4,Kerala,Kottayam,971,1683696.0
+2021,Q4,Kerala,Ernakulam,3397,4987028.0
+2021,Q4,Kerala,Idukki,546,1145328.0
+2021,Q1,Kerala,Thiruvananthapuram,587,507950.0
+2021,Q1,Kerala,Kasaragod,193,186159.0
+2021,Q1,Kerala,Malappuram,446,350548.0
+2021,Q1,Kerala,Pathanamthitta,132,173982.0
+2021,Q1,Kerala,Wayanad,108,81848.0
+2021,Q1,Kerala,Alappuzha,344,310645.0
+2021,Q1,Kerala,Kozhikode,598,503468.0
+2021,Q1,Kerala,Kollam,383,364847.0
+2021,Q1,Kerala,Thrissur,524,503132.0
+2021,Q1,Kerala,Palakkad,346,300887.0
+2021,Q1,Kerala,Kannur,422,374238.0
+2021,Q1,Kerala,Kottayam,260,224292.0
+2021,Q1,Kerala,Ernakulam,1252,1016580.0
+2021,Q1,Kerala,Idukki,136,141930.0
+2021,Q2,Karnataka,Mysuru,1625,1609768.0
+2021,Q2,Karnataka,Chitradurga,442,458745.0
+2021,Q2,Karnataka,Kalaburagi,757,778234.0
+2021,Q2,Karnataka,Ramanagara,606,746239.0
+2021,Q2,Karnataka,Mandya,623,642554.0
+2021,Q2,Karnataka,Kodagu,163,270605.0
+2021,Q2,Karnataka,Chikkamagaluru,369,487211.0
+2021,Q2,Karnataka,Haveri,330,298208.0
+2021,Q2,Karnataka,Ballari,1133,1013072.0
+2021,Q2,Karnataka,Belagavi,1427,1253310.0
+2021,Q2,Karnataka,Kolar,601,651596.0
+2021,Q2,Karnataka,Uttara Kannada,489,592021.0
+2021,Q2,Karnataka,Tumakuru,1096,1102268.0
+2021,Q2,Karnataka,Yadgir,211,170415.0
+2021,Q2,Karnataka,Bengaluru Urban,21918,19572756.0
+2021,Q2,Karnataka,Chikkaballapura,326,372247.0
+2021,Q2,Karnataka,Davanagere,747,846910.0
+2021,Q2,Karnataka,Bagalkote,512,582754.0
+2021,Q2,Karnataka,Vijayapura,732,568239.0
+2021,Q2,Karnataka,Koppal,338,371351.0
+2021,Q2,Karnataka,Bidar,492,453924.0
+2021,Q2,Karnataka,Bengaluru Rural,989,1099031.0
+2021,Q2,Karnataka,Raichur,565,396913.0
+2021,Q2,Karnataka,Chamarajanagara,152,161777.0
+2021,Q2,Karnataka,Dakshina Kannada,843,1051575.0
+2021,Q2,Karnataka,Hassan,647,831765.0
+2021,Q2,Karnataka,Dharwad,1266,1334979.0
+2021,Q2,Karnataka,Shivamogga,833,920816.0
+2021,Q2,Karnataka,Udupi,521,661224.0
+2021,Q2,Karnataka,Gadag,216,200499.0
+2021,Q4,Karnataka,Mysuru,2999,4025182.0
+2021,Q4,Karnataka,Chitradurga,452,597974.0
+2021,Q4,Karnataka,Kalaburagi,1364,1791618.0
+2021,Q4,Karnataka,Ramanagara,1085,1387009.0
+2021,Q4,Karnataka,Mandya,832,1156148.0
+2021,Q4,Karnataka,Kodagu,312,530831.0
+2021,Q4,Karnataka,Chikkamagaluru,581,961601.0
+2021,Q4,Karnataka,Haveri,413,537574.0
+2021,Q4,Karnataka,Ballari,1705,2348052.0
+2021,Q4,Karnataka,Belagavi,2268,2994132.0
+2021,Q4,Karnataka,Kolar,890,1338402.0
+2021,Q4,Karnataka,Uttara Kannada,894,1418212.0
+2021,Q4,Karnataka,Tumakuru,1540,2107437.0
+2021,Q4,Karnataka,Yadgir,252,291276.0
+2021,Q4,Karnataka,Bengaluru Urban,44650,50064816.0
+2021,Q4,Karnataka,Chikkaballapura,583,926384.0
+2021,Q4,Karnataka,Davanagere,1050,1416678.0
+2021,Q4,Karnataka,Bagalkote,695,916618.0
+2021,Q4,Karnataka,Vijayapura,1057,1353128.0
+2021,Q4,Karnataka,Koppal,397,475837.0
+2021,Q4,Karnataka,Bidar,752,1095967.0
+2021,Q4,Karnataka,Bengaluru Rural,1664,2301115.0
+2021,Q4,Karnataka,Raichur,644,821665.0
+2021,Q4,Karnataka,Chamarajanagara,215,358043.0
+2021,Q4,Karnataka,Dakshina Kannada,1760,2383587.0
+2021,Q4,Karnataka,Hassan,1107,1594289.0
+2021,Q4,Karnataka,Dharwad,1998,2448037.0
+2021,Q4,Karnataka,Shivamogga,1243,1666023.0
+2021,Q4,Karnataka,Udupi,713,1031736.0
+2021,Q4,Karnataka,Gadag,321,383917.0
+2021,Q1,Karnataka,Mysuru,1473,1099863.0
+2021,Q1,Karnataka,Chitradurga,274,209349.0
+2021,Q1,Karnataka,Kalaburagi,665,465871.0
+2021,Q1,Karnataka,Ramanagara,606,602933.0
+2021,Q1,Karnataka,Mandya,434,390308.0
+2021,Q1,Karnataka,Kodagu,149,127876.0
+2021,Q1,Karnataka,Chikkamagaluru,259,220237.0
+2021,Q1,Karnataka,Haveri,234,166097.0
+2021,Q1,Karnataka,Ballari,919,731673.0
+2021,Q1,Karnataka,Belagavi,1459,1055645.0
+2021,Q1,Karnataka,Kolar,575,423114.0
+2021,Q1,Karnataka,Uttara Kannada,422,376724.0
+2021,Q1,Karnataka,Tumakuru,921,782869.0
+2021,Q1,Karnataka,Yadgir,169,119279.0
+2021,Q1,Karnataka,Bengaluru Urban,21606,17636524.0
+2021,Q1,Karnataka,Chikkaballapura,325,290390.0
+2021,Q1,Karnataka,Davanagere,520,459062.0
+2021,Q1,Karnataka,Bagalkote,479,307761.0
+2021,Q1,Karnataka,Vijayapura,656,524451.0
+2021,Q1,Karnataka,Koppal,264,145686.0
+2021,Q1,Karnataka,Bidar,468,381087.0
+2021,Q1,Karnataka,Bengaluru Rural,952,808005.0
+2021,Q1,Karnataka,Raichur,525,368615.0
+2021,Q1,Karnataka,Chamarajanagara,118,91911.0
+2021,Q1,Karnataka,Dakshina Kannada,680,560199.0
+2021,Q1,Karnataka,Hassan,486,427177.0
+2021,Q1,Karnataka,Dharwad,926,653411.0
+2021,Q1,Karnataka,Shivamogga,494,411405.0
+2021,Q1,Karnataka,Udupi,330,225073.0
+2021,Q1,Karnataka,Gadag,207,120730.0
+2021,Q3,Karnataka,Mysuru,1875,1959596.0
+2021,Q3,Karnataka,Chitradurga,392,474079.0
+2021,Q3,Karnataka,Kalaburagi,733,808324.0
+2021,Q3,Karnataka,Ramanagara,821,765577.0
+2021,Q3,Karnataka,Mandya,639,698670.0
+2021,Q3,Karnataka,Kodagu,177,248546.0
+2021,Q3,Karnataka,Chikkamagaluru,386,547276.0
+2021,Q3,Karnataka,Haveri,310,343476.0
+2021,Q3,Karnataka,Ballari,1188,1290594.0
+2021,Q3,Karnataka,Belagavi,1276,1203412.0
+2021,Q3,Karnataka,Kolar,671,782088.0
+2021,Q3,Karnataka,Uttara Kannada,552,671523.0
+2021,Q3,Karnataka,Tumakuru,1275,1366567.0
+2021,Q3,Karnataka,Yadgir,200,206054.0
+2021,Q3,Karnataka,Bengaluru Urban,27498,26210017.0
+2021,Q3,Karnataka,Chikkaballapura,384,549249.0
+2021,Q3,Karnataka,Davanagere,830,908303.0
+2021,Q3,Karnataka,Bagalkote,433,366428.0
+2021,Q3,Karnataka,Vijayapura,714,822832.0
+2021,Q3,Karnataka,Koppal,344,364887.0
+2021,Q3,Karnataka,Bidar,516,516419.0
+2021,Q3,Karnataka,Bengaluru Rural,1092,1361844.0
+2021,Q3,Karnataka,Raichur,461,430344.0
+2021,Q3,Karnataka,Chamarajanagara,183,208622.0
+2021,Q3,Karnataka,Dakshina Kannada,1065,1124855.0
+2021,Q3,Karnataka,Hassan,745,908378.0
+2021,Q3,Karnataka,Dharwad,1167,1189951.0
+2021,Q3,Karnataka,Shivamogga,819,949663.0
+2021,Q3,Karnataka,Udupi,505,585187.0
+2021,Q3,Karnataka,Gadag,217,215605.0
+2020,Q2,Himachal Pradesh,Solan,97,19714.0
+2020,Q2,Himachal Pradesh,Sirmaur,19,4111.0
+2020,Q2,Himachal Pradesh,Shimla,44,8364.0
+2020,Q2,Himachal Pradesh,Bilaspur,11,2712.0
+2020,Q2,Himachal Pradesh,Hamirpur,31,6714.0
+2020,Q2,Himachal Pradesh,Una,11,2651.0
+2020,Q2,Himachal Pradesh,Kangra,38,9269.0
+2020,Q2,Himachal Pradesh,Kullu,80,11543.0
+2020,Q2,Himachal Pradesh,Mandi,54,10723.0
+2020,Q2,Himachal Pradesh,Chamba,4,1447.0
+2020,Q2,Himachal Pradesh,Kinnaur,3,688.0
+2020,Q4,Himachal Pradesh,Solan,162,88870.0
+2020,Q4,Himachal Pradesh,Sirmaur,50,47332.0
+2020,Q4,Himachal Pradesh,Shimla,74,57412.0
+2020,Q4,Himachal Pradesh,Bilaspur,19,16248.0
+2020,Q4,Himachal Pradesh,Hamirpur,59,57764.0
+2020,Q4,Himachal Pradesh,Una,51,48891.0
+2020,Q4,Himachal Pradesh,Kangra,153,166625.0
+2020,Q4,Himachal Pradesh,Kullu,19,14390.0
+2020,Q4,Himachal Pradesh,Mandi,73,83521.0
+2020,Q4,Himachal Pradesh,Lahul And Spiti,3,1018.0
+2020,Q4,Himachal Pradesh,Chamba,29,20481.0
+2020,Q4,Himachal Pradesh,Kinnaur,18,28414.0
+2020,Q3,Himachal Pradesh,Solan,132,38040.0
+2020,Q3,Himachal Pradesh,Sirmaur,39,10928.0
+2020,Q3,Himachal Pradesh,Shimla,74,26993.0
+2020,Q3,Himachal Pradesh,Bilaspur,17,4750.0
+2020,Q3,Himachal Pradesh,Hamirpur,25,8139.0
+2020,Q3,Himachal Pradesh,Una,31,6127.0
+2020,Q3,Himachal Pradesh,Kangra,89,26682.0
+2020,Q3,Himachal Pradesh,Kullu,34,14714.0
+2020,Q3,Himachal Pradesh,Mandi,58,21176.0
+2020,Q3,Himachal Pradesh,Lahul And Spiti,9,1719.0
+2020,Q3,Himachal Pradesh,Chamba,14,4150.0
+2020,Q3,Himachal Pradesh,Kinnaur,9,2141.0
+2020,Q3,Jammu & Kashmir,Doda,7,1095.0
+2020,Q3,Jammu & Kashmir,Samba,26,7652.0
+2020,Q3,Jammu & Kashmir,Srinagar,37,12500.0
+2020,Q3,Jammu & Kashmir,Baramulla,31,7873.0
+2020,Q3,Jammu & Kashmir,Jammu,178,57768.0
+2020,Q3,Jammu & Kashmir,Ganderbal,7,2398.0
+2020,Q3,Jammu & Kashmir,Udhampur,15,2284.0
+2020,Q3,Jammu & Kashmir,Bandipore,4,761.0
+2020,Q3,Jammu & Kashmir,Reasi,14,5059.0
+2020,Q3,Jammu & Kashmir,Shopian,3,383.0
+2020,Q3,Jammu & Kashmir,Poonch,3,1058.0
+2020,Q3,Jammu & Kashmir,Kathua,25,6856.0
+2020,Q3,Jammu & Kashmir,Kishtwar,1,166.0
+2020,Q3,Jammu & Kashmir,Pulwama,11,2994.0
+2020,Q3,Jammu & Kashmir,Ramban,10,3343.0
+2020,Q3,Jammu & Kashmir,Rajouri,18,4443.0
+2020,Q3,Jammu & Kashmir,Kulgam,5,3014.0
+2020,Q3,Jammu & Kashmir,Budgam,23,6888.0
+2020,Q3,Jammu & Kashmir,Anantnag,8,1194.0
+2020,Q3,Jammu & Kashmir,Kupwara,15,5610.0
+2020,Q2,Jammu & Kashmir,Doda,4,693.0
+2020,Q2,Jammu & Kashmir,Samba,12,2538.0
+2020,Q2,Jammu & Kashmir,Srinagar,13,3764.0
+2020,Q2,Jammu & Kashmir,Baramulla,8,2309.0
+2020,Q2,Jammu & Kashmir,Jammu,90,20793.0
+2020,Q2,Jammu & Kashmir,Ganderbal,1,231.0
+2020,Q2,Jammu & Kashmir,Udhampur,15,3721.0
+2020,Q2,Jammu & Kashmir,Bandipore,1,226.0
+2020,Q2,Jammu & Kashmir,Reasi,7,1356.0
+2020,Q2,Jammu & Kashmir,Kathua,9,2171.0
+2020,Q2,Jammu & Kashmir,Kishtwar,5,1027.0
+2020,Q2,Jammu & Kashmir,Pulwama,6,1637.0
+2020,Q2,Jammu & Kashmir,Ramban,4,1401.0
+2020,Q2,Jammu & Kashmir,Rajouri,10,1961.0
+2020,Q2,Jammu & Kashmir,Kulgam,1,231.0
+2020,Q2,Jammu & Kashmir,Budgam,4,1699.0
+2020,Q2,Jammu & Kashmir,Anantnag,5,1057.0
+2020,Q2,Jammu & Kashmir,Kupwara,11,1669.0
+2020,Q4,Jammu & Kashmir,Doda,9,10047.0
+2020,Q4,Jammu & Kashmir,Samba,55,52801.0
+2020,Q4,Jammu & Kashmir,Mirpur,2,2612.0
+2020,Q4,Jammu & Kashmir,Srinagar,48,71117.0
+2020,Q4,Jammu & Kashmir,Baramulla,29,26838.0
+2020,Q4,Jammu & Kashmir,Jammu,220,234831.0
+2020,Q4,Jammu & Kashmir,Ganderbal,7,11507.0
+2020,Q4,Jammu & Kashmir,Udhampur,39,38569.0
+2020,Q4,Jammu & Kashmir,Bandipore,8,6649.0
+2020,Q4,Jammu & Kashmir,Reasi,34,26958.0
+2020,Q4,Jammu & Kashmir,Shopian,2,5368.0
+2020,Q4,Jammu & Kashmir,Poonch,23,26902.0
+2020,Q4,Jammu & Kashmir,Kathua,42,48827.0
+2020,Q4,Jammu & Kashmir,Kishtwar,6,16741.0
+2020,Q4,Jammu & Kashmir,Pulwama,14,17539.0
+2020,Q4,Jammu & Kashmir,Ramban,9,7703.0
+2020,Q4,Jammu & Kashmir,Rajouri,19,12775.0
+2020,Q4,Jammu & Kashmir,Kulgam,6,15663.0
+2020,Q4,Jammu & Kashmir,Budgam,26,47506.0
+2020,Q4,Jammu & Kashmir,Anantnag,23,32801.0
+2020,Q4,Jammu & Kashmir,Kupwara,26,21107.0
+2023,Q4,Ladakh,Kargil,38,114419.0
+2023,Q4,Ladakh,Leh Ladakh,204,604548.0
+2023,Q2,Ladakh,Kargil,46,124697.0
+2023,Q2,Ladakh,Leh Ladakh,169,511134.0
+2023,Q3,Ladakh,Kargil,47,107009.0
+2023,Q3,Ladakh,Leh Ladakh,185,542018.0
+2023,Q1,Ladakh,Kargil,49,132469.0
+2023,Q1,Ladakh,Leh Ladakh,112,363267.0
+2021,Q3,Jharkhand,Ramgarh,238,272231.0
+2021,Q3,Jharkhand,Ranchi,1484,1611727.0
+2021,Q3,Jharkhand,East Singhbhum,963,921561.0
+2021,Q3,Jharkhand,Jamtara,34,31389.0
+2021,Q3,Jharkhand,Dumka,86,132763.0
+2021,Q3,Jharkhand,Koderma,108,88713.0
+2021,Q3,Jharkhand,Hazaribagh,282,274354.0
+2021,Q3,Jharkhand,Simdega,34,43312.0
+2021,Q3,Jharkhand,Garhwa,145,125641.0
+2021,Q3,Jharkhand,Saraikela Kharsawan,241,241991.0
+2021,Q3,Jharkhand,Gumla,62,75267.0
+2021,Q3,Jharkhand,Chatra,96,89477.0
+2021,Q3,Jharkhand,Khunti,89,131108.0
+2021,Q3,Jharkhand,Dhanbad,820,813608.0
+2021,Q3,Jharkhand,Godda,94,101288.0
+2021,Q3,Jharkhand,Deoghar,179,159871.0
+2021,Q3,Jharkhand,Palamu,606,672846.0
+2021,Q3,Jharkhand,Latehar,75,91517.0
+2021,Q3,Jharkhand,West Singhbhum,124,171002.0
+2021,Q3,Jharkhand,Pakur,32,47606.0
+2021,Q3,Jharkhand,Lohardaga,152,76185.0
+2021,Q3,Jharkhand,Sahebganj,58,67062.0
+2021,Q3,Jharkhand,Giridih,194,175791.0
+2021,Q3,Jharkhand,Bokaro,598,629738.0
+2021,Q2,Jharkhand,Ramgarh,191,199495.0
+2021,Q2,Jharkhand,Ranchi,1116,1206771.0
+2021,Q2,Jharkhand,East Singhbhum,789,715258.0
+2021,Q2,Jharkhand,Jamtara,28,14300.0
+2021,Q2,Jharkhand,Dumka,81,66777.0
+2021,Q2,Jharkhand,Koderma,123,99393.0
+2021,Q2,Jharkhand,Hazaribagh,236,199302.0
+2021,Q2,Jharkhand,Simdega,50,56762.0
+2021,Q2,Jharkhand,Garhwa,159,161183.0
+2021,Q2,Jharkhand,Saraikela Kharsawan,190,136575.0
+2021,Q2,Jharkhand,Gumla,60,57744.0
+2021,Q2,Jharkhand,Chatra,92,82667.0
+2021,Q2,Jharkhand,Khunti,47,60531.0
+2021,Q2,Jharkhand,Dhanbad,562,542379.0
+2021,Q2,Jharkhand,Godda,115,114144.0
+2021,Q2,Jharkhand,Deoghar,141,167411.0
+2021,Q2,Jharkhand,Palamu,248,225217.0
+2021,Q2,Jharkhand,Latehar,61,72491.0
+2021,Q2,Jharkhand,West Singhbhum,86,105481.0
+2021,Q2,Jharkhand,Pakur,58,52634.0
+2021,Q2,Jharkhand,Lohardaga,72,56969.0
+2021,Q2,Jharkhand,Sahebganj,73,77008.0
+2021,Q2,Jharkhand,Giridih,197,191694.0
+2021,Q2,Jharkhand,Bokaro,405,422044.0
+2021,Q1,Jharkhand,Ramgarh,204,131405.0
+2021,Q1,Jharkhand,Ranchi,1026,734770.0
+2021,Q1,Jharkhand,East Singhbhum,625,404402.0
+2021,Q1,Jharkhand,Jamtara,38,18540.0
+2021,Q1,Jharkhand,Dumka,80,49753.0
+2021,Q1,Jharkhand,Koderma,105,70712.0
+2021,Q1,Jharkhand,Hazaribagh,271,134641.0
+2021,Q1,Jharkhand,Simdega,65,55468.0
+2021,Q1,Jharkhand,Garhwa,158,144421.0
+2021,Q1,Jharkhand,Saraikela Kharsawan,153,93522.0
+2021,Q1,Jharkhand,Gumla,67,57850.0
+2021,Q1,Jharkhand,Chatra,97,51594.0
+2021,Q1,Jharkhand,Khunti,35,30639.0
+2021,Q1,Jharkhand,Dhanbad,570,392616.0
+2021,Q1,Jharkhand,Godda,85,53107.0
+2021,Q1,Jharkhand,Deoghar,135,72035.0
+2021,Q1,Jharkhand,Palamu,271,186504.0
+2021,Q1,Jharkhand,Latehar,66,34684.0
+2021,Q1,Jharkhand,West Singhbhum,91,79765.0
+2021,Q1,Jharkhand,Pakur,41,36195.0
+2021,Q1,Jharkhand,Lohardaga,37,28508.0
+2021,Q1,Jharkhand,Sahebganj,72,46009.0
+2021,Q1,Jharkhand,Giridih,184,108108.0
+2021,Q1,Jharkhand,Bokaro,403,259603.0
+2021,Q4,Jharkhand,Ramgarh,355,479936.0
+2021,Q4,Jharkhand,Ranchi,2151,2693792.0
+2021,Q4,Jharkhand,East Singhbhum,1241,1587274.0
+2021,Q4,Jharkhand,Jamtara,53,78716.0
+2021,Q4,Jharkhand,Dumka,122,156949.0
+2021,Q4,Jharkhand,Koderma,112,128101.0
+2021,Q4,Jharkhand,Hazaribagh,276,496461.0
+2021,Q4,Jharkhand,Simdega,73,95839.0
+2021,Q4,Jharkhand,Garhwa,165,214695.0
+2021,Q4,Jharkhand,Saraikela Kharsawan,332,403274.0
+2021,Q4,Jharkhand,Gumla,100,172701.0
+2021,Q4,Jharkhand,Chatra,71,112169.0
+2021,Q4,Jharkhand,Khunti,125,130221.0
+2021,Q4,Jharkhand,Dhanbad,1022,1522634.0
+2021,Q4,Jharkhand,Godda,113,143720.0
+2021,Q4,Jharkhand,Deoghar,235,250418.0
+2021,Q4,Jharkhand,Palamu,479,537986.0
+2021,Q4,Jharkhand,Latehar,80,92996.0
+2021,Q4,Jharkhand,West Singhbhum,210,282927.0
+2021,Q4,Jharkhand,Pakur,65,57733.0
+2021,Q4,Jharkhand,Lohardaga,97,121817.0
+2021,Q4,Jharkhand,Sahebganj,83,100522.0
+2021,Q4,Jharkhand,Giridih,254,311822.0
+2021,Q4,Jharkhand,Bokaro,651,1017720.0
+2020,Q4,Madhya Pradesh,Morena,109,41901.0
+2020,Q4,Madhya Pradesh,Alirajpur,27,11177.0
+2020,Q4,Madhya Pradesh,Sehore,259,76883.0
+2020,Q4,Madhya Pradesh,Rajgarh,183,52132.0
+2020,Q4,Madhya Pradesh,Khargone,218,77172.0
+2020,Q4,Madhya Pradesh,Satna,284,149067.0
+2020,Q4,Madhya Pradesh,Narsinghpur,121,57148.0
+2020,Q4,Madhya Pradesh,Jabalpur,455,263094.0
+2020,Q4,Madhya Pradesh,Hoshangabad,230,98473.0
+2020,Q4,Madhya Pradesh,Vidisha,141,64757.0
+2020,Q4,Madhya Pradesh,Balaghat,211,77280.0
+2020,Q4,Madhya Pradesh,Singrauli,153,116507.0
+2020,Q4,Madhya Pradesh,Betul,267,96761.0
+2020,Q4,Madhya Pradesh,Sidhi,92,52466.0
+2020,Q4,Madhya Pradesh,Datia,46,25707.0
+2020,Q4,Madhya Pradesh,Dewas,282,115156.0
+2020,Q4,Madhya Pradesh,Sheopur,23,9290.0
+2020,Q4,Madhya Pradesh,Neemuch,102,39372.0
+2020,Q4,Madhya Pradesh,Raisen,178,64055.0
+2020,Q4,Madhya Pradesh,Mandsaur,182,51307.0
+2020,Q4,Madhya Pradesh,Barwani,113,47429.0
+2020,Q4,Madhya Pradesh,Katni,113,69056.0
+2020,Q4,Madhya Pradesh,Dindori,54,30419.0
+2020,Q4,Madhya Pradesh,Shivpuri,103,30625.0
+2020,Q4,Madhya Pradesh,Gwalior,477,314023.0
+2020,Q4,Madhya Pradesh,Anuppur,69,41608.0
+2020,Q4,Madhya Pradesh,Agar Malwa,73,21125.0
+2020,Q4,Madhya Pradesh,Ashoknagar,46,17739.0
+2020,Q4,Madhya Pradesh,Sagar,245,99518.0
+2020,Q4,Madhya Pradesh,Niwari,21,11912.0
+2020,Q4,Madhya Pradesh,Rewa,267,106386.0
+2020,Q4,Madhya Pradesh,Shajapur,121,50108.0
+2020,Q4,Madhya Pradesh,Ujjain,397,170342.0
+2020,Q4,Madhya Pradesh,Bhind,107,48433.0
+2020,Q4,Madhya Pradesh,Tikamgarh,52,23206.0
+2020,Q4,Madhya Pradesh,Seoni,116,54596.0
+2020,Q4,Madhya Pradesh,Harda,77,24418.0
+2020,Q4,Madhya Pradesh,Burhanpur,77,25705.0
+2020,Q4,Madhya Pradesh,Damoh,97,38456.0
+2020,Q4,Madhya Pradesh,Bhopal,1097,587203.0
+2020,Q4,Madhya Pradesh,Jhabua,105,41610.0
+2020,Q4,Madhya Pradesh,Dhar,359,123734.0
+2020,Q4,Madhya Pradesh,Guna,97,22972.0
+2020,Q4,Madhya Pradesh,East Nimar,159,56794.0
+2020,Q4,Madhya Pradesh,Chhindwara,304,115853.0
+2020,Q4,Madhya Pradesh,Umaria,45,34446.0
+2020,Q4,Madhya Pradesh,Mandla,80,39727.0
+2020,Q4,Madhya Pradesh,Indore,1712,912031.0
+2020,Q4,Madhya Pradesh,Shahdol,147,71389.0
+2020,Q4,Madhya Pradesh,Ratlam,197,62186.0
+2020,Q4,Madhya Pradesh,Panna,59,16853.0
+2020,Q4,Madhya Pradesh,Chhatarpur,104,47517.0
+2020,Q2,Madhya Pradesh,Morena,58,11829.0
+2020,Q2,Madhya Pradesh,Alirajpur,5,1734.0
+2020,Q2,Madhya Pradesh,Sehore,87,17893.0
+2020,Q2,Madhya Pradesh,Rajgarh,69,14681.0
+2020,Q2,Madhya Pradesh,Khargone,124,26301.0
+2020,Q2,Madhya Pradesh,Satna,100,20726.0
+2020,Q2,Madhya Pradesh,Narsinghpur,74,15416.0
+2020,Q2,Madhya Pradesh,Jabalpur,326,60929.0
+2020,Q2,Madhya Pradesh,Hoshangabad,110,22009.0
+2020,Q2,Madhya Pradesh,Vidisha,43,8782.0
+2020,Q2,Madhya Pradesh,Balaghat,54,11175.0
+2020,Q2,Madhya Pradesh,Singrauli,80,17272.0
+2020,Q2,Madhya Pradesh,Betul,115,22406.0
+2020,Q2,Madhya Pradesh,Sidhi,18,3904.0
+2020,Q2,Madhya Pradesh,Datia,25,5010.0
+2020,Q2,Madhya Pradesh,Dewas,155,32391.0
+2020,Q2,Madhya Pradesh,Sheopur,9,2271.0
+2020,Q2,Madhya Pradesh,Neemuch,48,10863.0
+2020,Q2,Madhya Pradesh,Raisen,77,15781.0
+2020,Q2,Madhya Pradesh,Mandsaur,94,18183.0
+2020,Q2,Madhya Pradesh,Barwani,33,7032.0
+2020,Q2,Madhya Pradesh,Katni,69,14814.0
+2020,Q2,Madhya Pradesh,Dindori,3,693.0
+2020,Q2,Madhya Pradesh,Shivpuri,34,7310.0
+2020,Q2,Madhya Pradesh,Gwalior,243,46280.0
+2020,Q2,Madhya Pradesh,Anuppur,13,2993.0
+2020,Q2,Madhya Pradesh,Agar Malwa,10,2659.0
+2020,Q2,Madhya Pradesh,Ashoknagar,17,3056.0
+2020,Q2,Madhya Pradesh,Sagar,131,28964.0
+2020,Q2,Madhya Pradesh,Niwari,7,1242.0
+2020,Q2,Madhya Pradesh,Rewa,96,21934.0
+2020,Q2,Madhya Pradesh,Shajapur,45,10193.0
+2020,Q2,Madhya Pradesh,Ujjain,178,35526.0
+2020,Q2,Madhya Pradesh,Bhind,32,7075.0
+2020,Q2,Madhya Pradesh,Tikamgarh,25,5562.0
+2020,Q2,Madhya Pradesh,Seoni,57,13663.0
+2020,Q2,Madhya Pradesh,Harda,32,6913.0
+2020,Q2,Madhya Pradesh,Burhanpur,51,11730.0
+2020,Q2,Madhya Pradesh,Damoh,57,11144.0
+2020,Q2,Madhya Pradesh,Bhopal,1085,192080.0
+2020,Q2,Madhya Pradesh,Jhabua,17,4009.0
+2020,Q2,Madhya Pradesh,Dhar,131,28292.0
+2020,Q2,Madhya Pradesh,Guna,34,7537.0
+2020,Q2,Madhya Pradesh,East Nimar,83,16720.0
+2020,Q2,Madhya Pradesh,Chhindwara,73,16441.0
+2020,Q2,Madhya Pradesh,Umaria,26,5735.0
+2020,Q2,Madhya Pradesh,Mandla,22,6263.0
+2020,Q2,Madhya Pradesh,Indore,1839,307509.0
+2020,Q2,Madhya Pradesh,Shahdol,38,8716.0
+2020,Q2,Madhya Pradesh,Ratlam,96,19723.0
+2020,Q2,Madhya Pradesh,Panna,5,1289.0
+2020,Q2,Madhya Pradesh,Chhatarpur,30,6048.0
+2020,Q3,Madhya Pradesh,Morena,155,30342.0
+2020,Q3,Madhya Pradesh,Alirajpur,40,7804.0
+2020,Q3,Madhya Pradesh,Sehore,254,53074.0
+2020,Q3,Madhya Pradesh,Rajgarh,177,36090.0
+2020,Q3,Madhya Pradesh,Khargone,223,49369.0
+2020,Q3,Madhya Pradesh,Satna,287,64817.0
+2020,Q3,Madhya Pradesh,Narsinghpur,173,46817.0
+2020,Q3,Madhya Pradesh,Jabalpur,849,232913.0
+2020,Q3,Madhya Pradesh,Hoshangabad,256,61050.0
+2020,Q3,Madhya Pradesh,Vidisha,179,42412.0
+2020,Q3,Madhya Pradesh,Balaghat,224,55341.0
+2020,Q3,Madhya Pradesh,Singrauli,221,55315.0
+2020,Q3,Madhya Pradesh,Betul,316,69680.0
+2020,Q3,Madhya Pradesh,Sidhi,131,28868.0
+2020,Q3,Madhya Pradesh,Datia,62,13613.0
+2020,Q3,Madhya Pradesh,Dewas,519,173166.0
+2020,Q3,Madhya Pradesh,Sheopur,31,6301.0
+2020,Q3,Madhya Pradesh,Neemuch,110,23213.0
+2020,Q3,Madhya Pradesh,Raisen,208,47455.0
+2020,Q3,Madhya Pradesh,Mandsaur,215,58951.0
+2020,Q3,Madhya Pradesh,Barwani,125,29863.0
+2020,Q3,Madhya Pradesh,Katni,179,48319.0
+2020,Q3,Madhya Pradesh,Dindori,46,8452.0
+2020,Q3,Madhya Pradesh,Shivpuri,112,22721.0
+2020,Q3,Madhya Pradesh,Gwalior,786,197464.0
+2020,Q3,Madhya Pradesh,Anuppur,78,17894.0
+2020,Q3,Madhya Pradesh,Agar Malwa,82,14452.0
+2020,Q3,Madhya Pradesh,Ashoknagar,52,9239.0
+2020,Q3,Madhya Pradesh,Sagar,362,93543.0
+2020,Q3,Madhya Pradesh,Niwari,30,6624.0
+2020,Q3,Madhya Pradesh,Rewa,319,78774.0
+2020,Q3,Madhya Pradesh,Shajapur,178,35638.0
+2020,Q3,Madhya Pradesh,Ujjain,435,99084.0
+2020,Q3,Madhya Pradesh,Bhind,124,28714.0
+2020,Q3,Madhya Pradesh,Tikamgarh,67,13975.0
+2020,Q3,Madhya Pradesh,Seoni,184,45507.0
+2020,Q3,Madhya Pradesh,Harda,137,35716.0
+2020,Q3,Madhya Pradesh,Burhanpur,84,19966.0
+2020,Q3,Madhya Pradesh,Damoh,116,32056.0
+2020,Q3,Madhya Pradesh,Bhopal,1645,396267.0
+2020,Q3,Madhya Pradesh,Jhabua,112,28252.0
+2020,Q3,Madhya Pradesh,Dhar,466,102051.0
+2020,Q3,Madhya Pradesh,Guna,172,33899.0
+2020,Q3,Madhya Pradesh,East Nimar,186,39021.0
+2020,Q3,Madhya Pradesh,Chhindwara,329,83081.0
+2020,Q3,Madhya Pradesh,Umaria,57,13301.0
+2020,Q3,Madhya Pradesh,Mandla,103,20736.0
+2020,Q3,Madhya Pradesh,Indore,2651,650508.0
+2020,Q3,Madhya Pradesh,Shahdol,165,43751.0
+2020,Q3,Madhya Pradesh,Ratlam,309,57232.0
+2020,Q3,Madhya Pradesh,Panna,50,9603.0
+2020,Q3,Madhya Pradesh,Chhatarpur,105,23832.0
+2020,Q3,Lakshadweep,Lakshadweep,4,1199.0
+2020,Q4,Gujarat,Anand,209,104965.0
+2020,Q4,Gujarat,Jamnagar,105,66383.0
+2020,Q4,Gujarat,Devbhumi Dwarka,50,27492.0
+2020,Q4,Gujarat,Rajkot,321,181318.0
+2020,Q4,Gujarat,Aravallis,112,59674.0
+2020,Q4,Gujarat,Chhotaudepur,24,6945.0
+2020,Q4,Gujarat,Botad,52,27484.0
+2020,Q4,Gujarat,Bharuch,524,356570.0
+2020,Q4,Gujarat,Bhavnagar,192,118250.0
+2020,Q4,Gujarat,Junagadh,79,51256.0
+2020,Q4,Gujarat,Mahesana,324,192309.0
+2020,Q4,Gujarat,The Dangs,21,10412.0
+2020,Q4,Gujarat,Kheda,191,114185.0
+2020,Q4,Gujarat,Surat,1858,1147153.0
+2020,Q4,Gujarat,Porbandar,43,44832.0
+2020,Q4,Gujarat,Gandhinagar,387,237333.0
+2020,Q4,Gujarat,Panch Mahals,180,93519.0
+2020,Q4,Gujarat,Narmada,29,13439.0
+2020,Q4,Gujarat,Gir Somnath,74,24539.0
+2020,Q4,Gujarat,Valsad,387,267121.0
+2020,Q4,Gujarat,Mahisagar,32,15115.0
+2020,Q4,Gujarat,Sabar Kantha,204,134455.0
+2020,Q4,Gujarat,Tapi,56,33815.0
+2020,Q4,Gujarat,Vadodara,748,468371.0
+2020,Q4,Gujarat,Banas Kantha,321,174192.0
+2020,Q4,Gujarat,Amreli,117,77606.0
+2020,Q4,Gujarat,Ahmadabad,2306,1404202.0
+2020,Q4,Gujarat,Dohad,61,31695.0
+2020,Q4,Gujarat,Navsari,139,82688.0
+2020,Q4,Gujarat,Patan,150,76634.0
+2020,Q4,Gujarat,Kachchh,503,291840.0
+2020,Q4,Gujarat,Surendranagar,79,61766.0
+2020,Q4,Gujarat,Morbi,112,57479.0
+2020,Q3,Gujarat,Anand,209,60630.0
+2020,Q3,Gujarat,Jamnagar,169,53054.0
+2020,Q3,Gujarat,Devbhumi Dwarka,54,16789.0
+2020,Q3,Gujarat,Rajkot,522,136449.0
+2020,Q3,Gujarat,Aravallis,106,31256.0
+2020,Q3,Gujarat,Chhotaudepur,40,19589.0
+2020,Q3,Gujarat,Botad,55,18361.0
+2020,Q3,Gujarat,Bharuch,614,174068.0
+2020,Q3,Gujarat,Bhavnagar,257,62615.0
+2020,Q3,Gujarat,Junagadh,122,46235.0
+2020,Q3,Gujarat,Mahesana,464,115807.0
+2020,Q3,Gujarat,The Dangs,7,3950.0
+2020,Q3,Gujarat,Kheda,234,58841.0
+2020,Q3,Gujarat,Surat,2206,544354.0
+2020,Q3,Gujarat,Porbandar,33,9335.0
+2020,Q3,Gujarat,Gandhinagar,562,162208.0
+2020,Q3,Gujarat,Panch Mahals,247,73504.0
+2020,Q3,Gujarat,Narmada,48,19181.0
+2020,Q3,Gujarat,Gir Somnath,69,15186.0
+2020,Q3,Gujarat,Valsad,474,130312.0
+2020,Q3,Gujarat,Mahisagar,57,13036.0
+2020,Q3,Gujarat,Sabar Kantha,211,54268.0
+2020,Q3,Gujarat,Tapi,68,16240.0
+2020,Q3,Gujarat,Vadodara,1162,360274.0
+2020,Q3,Gujarat,Banas Kantha,330,77539.0
+2020,Q3,Gujarat,Amreli,151,45558.0
+2020,Q3,Gujarat,Ahmadabad,2682,655107.0
+2020,Q3,Gujarat,Dohad,96,25194.0
+2020,Q3,Gujarat,Navsari,133,32840.0
+2020,Q3,Gujarat,Patan,294,64517.0
+2020,Q3,Gujarat,Kachchh,583,164427.0
+2020,Q3,Gujarat,Surendranagar,118,29234.0
+2020,Q3,Gujarat,Morbi,148,45854.0
+2020,Q2,Gujarat,Anand,136,27854.0
+2020,Q2,Gujarat,Jamnagar,101,19839.0
+2020,Q2,Gujarat,Devbhumi Dwarka,22,4707.0
+2020,Q2,Gujarat,Rajkot,545,96057.0
+2020,Q2,Gujarat,Aravallis,22,5393.0
+2020,Q2,Gujarat,Chhotaudepur,10,1839.0
+2020,Q2,Gujarat,Botad,16,3356.0
+2020,Q2,Gujarat,Bharuch,273,54151.0
+2020,Q2,Gujarat,Bhavnagar,148,28854.0
+2020,Q2,Gujarat,Junagadh,60,12872.0
+2020,Q2,Gujarat,Mahesana,192,39039.0
+2020,Q2,Gujarat,The Dangs,14,2757.0
+2020,Q2,Gujarat,Kheda,91,20484.0
+2020,Q2,Gujarat,Surat,1255,220970.0
+2020,Q2,Gujarat,Porbandar,16,3481.0
+2020,Q2,Gujarat,Gandhinagar,509,92680.0
+2020,Q2,Gujarat,Panch Mahals,52,11238.0
+2020,Q2,Gujarat,Narmada,5,1021.0
+2020,Q2,Gujarat,Gir Somnath,39,9252.0
+2020,Q2,Gujarat,Valsad,348,64661.0
+2020,Q2,Gujarat,Mahisagar,14,3529.0
+2020,Q2,Gujarat,Sabar Kantha,65,14618.0
+2020,Q2,Gujarat,Tapi,29,6739.0
+2020,Q2,Gujarat,Vadodara,580,110090.0
+2020,Q2,Gujarat,Banas Kantha,111,24799.0
+2020,Q2,Gujarat,Amreli,42,10331.0
+2020,Q2,Gujarat,Ahmadabad,2282,396800.0
+2020,Q2,Gujarat,Dohad,37,7420.0
+2020,Q2,Gujarat,Navsari,105,21218.0
+2020,Q2,Gujarat,Patan,73,14660.0
+2020,Q2,Gujarat,Kachchh,320,65377.0
+2020,Q2,Gujarat,Surendranagar,146,26184.0
+2020,Q2,Gujarat,Morbi,39,8321.0
+2020,Q2,Haryana,Yamunanagar,91,18968.0
+2020,Q2,Haryana,Sonipat,210,43359.0
+2020,Q2,Haryana,Jind,32,8495.0
+2020,Q2,Haryana,Rohtak,127,27796.0
+2020,Q2,Haryana,Faridabad,1051,189308.0
+2020,Q2,Haryana,Mahendragarh,94,23269.0
+2020,Q2,Haryana,Hisar,191,36813.0
+2020,Q2,Haryana,Karnal,303,52030.0
+2020,Q2,Haryana,Fatehabad,21,5143.0
+2020,Q2,Haryana,Palwal,130,28921.0
+2020,Q2,Haryana,Charkhi Dadri,29,7053.0
+2020,Q2,Haryana,Ambala,191,43269.0
+2020,Q2,Haryana,Rewari,343,69983.0
+2020,Q2,Haryana,Panchkula,110,22019.0
+2020,Q2,Haryana,Bhiwani,83,19585.0
+2020,Q2,Haryana,Sirsa,75,14945.0
+2020,Q2,Haryana,Mewat,31,7908.0
+2020,Q2,Haryana,Panipat,297,53337.0
+2020,Q2,Haryana,Gurugram,2571,438481.0
+2020,Q2,Haryana,Kaithal,43,9656.0
+2020,Q2,Haryana,Kurukshetra,94,19177.0
+2020,Q2,Haryana,Jhajjar,204,40299.0
+2020,Q4,Haryana,Yamunanagar,129,119098.0
+2020,Q4,Haryana,Sonipat,357,304138.0
+2020,Q4,Haryana,Jind,142,100629.0
+2020,Q4,Haryana,Rohtak,230,192791.0
+2020,Q4,Haryana,Faridabad,1370,1022011.0
+2020,Q4,Haryana,Mahendragarh,271,184572.0
+2020,Q4,Haryana,Hisar,374,243421.0
+2020,Q4,Haryana,Karnal,220,141312.0
+2020,Q4,Haryana,Fatehabad,109,65087.0
+2020,Q4,Haryana,Palwal,295,205874.0
+2020,Q4,Haryana,Charkhi Dadri,64,60044.0
+2020,Q4,Haryana,Ambala,146,155468.0
+2020,Q4,Haryana,Rewari,639,442173.0
+2020,Q4,Haryana,Panchkula,127,98899.0
+2020,Q4,Haryana,Bhiwani,257,204503.0
+2020,Q4,Haryana,Sirsa,112,73566.0
+2020,Q4,Haryana,Mewat,157,106280.0
+2020,Q4,Haryana,Panipat,265,148352.0
+2020,Q4,Haryana,Gurugram,2380,1626450.0
+2020,Q4,Haryana,Kaithal,107,68122.0
+2020,Q4,Haryana,Kurukshetra,139,87224.0
+2020,Q4,Haryana,Jhajjar,393,324264.0
+2020,Q3,Haryana,Yamunanagar,142,42759.0
+2020,Q3,Haryana,Sonipat,278,77076.0
+2020,Q3,Haryana,Jind,150,46196.0
+2020,Q3,Haryana,Rohtak,130,35802.0
+2020,Q3,Haryana,Faridabad,1144,297042.0
+2020,Q3,Haryana,Mahendragarh,237,61501.0
+2020,Q3,Haryana,Hisar,361,114981.0
+2020,Q3,Haryana,Karnal,232,63907.0
+2020,Q3,Haryana,Fatehabad,86,26433.0
+2020,Q3,Haryana,Palwal,258,65067.0
+2020,Q3,Haryana,Charkhi Dadri,42,12075.0
+2020,Q3,Haryana,Ambala,198,56775.0
+2020,Q3,Haryana,Rewari,483,135250.0
+2020,Q3,Haryana,Panchkula,140,41974.0
+2020,Q3,Haryana,Bhiwani,204,68318.0
+2020,Q3,Haryana,Sirsa,123,36793.0
+2020,Q3,Haryana,Mewat,129,27001.0
+2020,Q3,Haryana,Panipat,296,79561.0
+2020,Q3,Haryana,Gurugram,1999,454846.0
+2020,Q3,Haryana,Kaithal,111,27034.0
+2020,Q3,Haryana,Kurukshetra,154,43794.0
+2020,Q3,Haryana,Jhajjar,242,70683.0
+2020,Q3,Chandigarh,Chandigarh,264,70969.0
+2020,Q2,Chandigarh,Chandigarh,149,29537.0
+2020,Q4,Chandigarh,Chandigarh,200,153341.0
+2020,Q2,Dadra & Nagar Haveli & Daman & Diu,Diu,4,796.0
+2020,Q2,Dadra & Nagar Haveli & Daman & Diu,Daman,52,9916.0
+2020,Q2,Dadra & Nagar Haveli & Daman & Diu,Dadra And Nagar Haveli,595,90317.0
+2020,Q3,Dadra & Nagar Haveli & Daman & Diu,Diu,3,101.0
+2020,Q3,Dadra & Nagar Haveli & Daman & Diu,Daman,87,20588.0
+2020,Q3,Dadra & Nagar Haveli & Daman & Diu,Dadra And Nagar Haveli,167,44815.0
+2020,Q4,Dadra & Nagar Haveli & Daman & Diu,Diu,6,1738.0
+2020,Q4,Dadra & Nagar Haveli & Daman & Diu,Daman,115,95653.0
+2020,Q4,Dadra & Nagar Haveli & Daman & Diu,Dadra And Nagar Haveli,111,52122.0
+2022,Q3,Arunachal Pradesh,Lower Dibang Valley,17,26960.0
+2022,Q3,Arunachal Pradesh,Lower Subansiri,11,26683.0
+2022,Q3,Arunachal Pradesh,Longding,2,9842.0
+2022,Q3,Arunachal Pradesh,West Siang,16,86941.0
+2022,Q3,Arunachal Pradesh,Kamle,1,2325.0
+2022,Q3,Arunachal Pradesh,Upper Siang,4,6334.0
+2022,Q3,Arunachal Pradesh,Tirap,23,54004.0
+2022,Q3,Arunachal Pradesh,Papum Pare,250,590296.0
+2022,Q3,Arunachal Pradesh,Anjaw,1,1758.0
+2022,Q3,Arunachal Pradesh,Siang,2,6421.0
+2022,Q3,Arunachal Pradesh,Lower Siang,3,4229.0
+2022,Q3,Arunachal Pradesh,Kra Daadi,1,5626.0
+2022,Q3,Arunachal Pradesh,Changlang,22,53679.0
+2022,Q3,Arunachal Pradesh,Pakke Kessang,2,2018.0
+2022,Q3,Arunachal Pradesh,West Kameng,42,118030.0
+2022,Q3,Arunachal Pradesh,Shi Yomi,1,1304.0
+2022,Q3,Arunachal Pradesh,East Siang,35,54567.0
+2022,Q3,Arunachal Pradesh,Upper Subansiri,1,720.0
+2022,Q3,Arunachal Pradesh,East Kameng,15,25996.0
+2022,Q3,Arunachal Pradesh,Lohit,18,45865.0
+2022,Q3,Arunachal Pradesh,Lepa Rada,5,9636.0
+2022,Q3,Arunachal Pradesh,Tawang,24,112439.0
+2022,Q3,Arunachal Pradesh,Namsai,14,54631.0
+2022,Q1,Arunachal Pradesh,Lower Dibang Valley,10,17012.0
+2022,Q1,Arunachal Pradesh,Lower Subansiri,9,27520.0
+2022,Q1,Arunachal Pradesh,Longding,6,18234.0
+2022,Q1,Arunachal Pradesh,West Siang,7,16731.0
+2022,Q1,Arunachal Pradesh,Kamle,2,3042.0
+2022,Q1,Arunachal Pradesh,Tirap,22,98280.0
+2022,Q1,Arunachal Pradesh,Papum Pare,149,339981.0
+2022,Q1,Arunachal Pradesh,Kurung Kumey,2,2907.0
+2022,Q1,Arunachal Pradesh,Anjaw,1,56.0
+2022,Q1,Arunachal Pradesh,Siang,3,10551.0
+2022,Q1,Arunachal Pradesh,Lower Siang,6,16596.0
+2022,Q1,Arunachal Pradesh,Kra Daadi,1,56.0
+2022,Q1,Arunachal Pradesh,Changlang,22,41022.0
+2022,Q1,Arunachal Pradesh,Pakke Kessang,2,4537.0
+2022,Q1,Arunachal Pradesh,Dibang Valley,2,4047.0
+2022,Q1,Arunachal Pradesh,West Kameng,36,83342.0
+2022,Q1,Arunachal Pradesh,Shi Yomi,1,1335.0
+2022,Q1,Arunachal Pradesh,East Siang,22,50073.0
+2022,Q1,Arunachal Pradesh,Upper Subansiri,5,7374.0
+2022,Q1,Arunachal Pradesh,East Kameng,1,56.0
+2022,Q1,Arunachal Pradesh,Lohit,17,33684.0
+2022,Q1,Arunachal Pradesh,Lepa Rada,5,32299.0
+2022,Q1,Arunachal Pradesh,Tawang,11,59469.0
+2022,Q1,Arunachal Pradesh,Namsai,13,25903.0
+2022,Q4,Arunachal Pradesh,Lower Dibang Valley,23,56348.0
+2022,Q4,Arunachal Pradesh,Lower Subansiri,14,21747.0
+2022,Q4,Arunachal Pradesh,Longding,8,30147.0
+2022,Q4,Arunachal Pradesh,West Siang,22,42902.0
+2022,Q4,Arunachal Pradesh,Upper Siang,10,38307.0
+2022,Q4,Arunachal Pradesh,Tirap,22,69612.0
+2022,Q4,Arunachal Pradesh,Papum Pare,249,557453.0
+2022,Q4,Arunachal Pradesh,Kurung Kumey,2,1617.0
+2022,Q4,Arunachal Pradesh,Anjaw,5,15990.0
+2022,Q4,Arunachal Pradesh,Siang,8,25817.0
+2022,Q4,Arunachal Pradesh,Lower Siang,3,14716.0
+2022,Q4,Arunachal Pradesh,Kra Daadi,2,2861.0
+2022,Q4,Arunachal Pradesh,Changlang,39,92295.0
+2022,Q4,Arunachal Pradesh,Pakke Kessang,4,9380.0
+2022,Q4,Arunachal Pradesh,Dibang Valley,1,1273.0
+2022,Q4,Arunachal Pradesh,West Kameng,53,140810.0
+2022,Q4,Arunachal Pradesh,Shi Yomi,1,56.0
+2022,Q4,Arunachal Pradesh,East Siang,33,62867.0
+2022,Q4,Arunachal Pradesh,Upper Subansiri,7,6741.0
+2022,Q4,Arunachal Pradesh,East Kameng,11,18432.0
+2022,Q4,Arunachal Pradesh,Lohit,35,74057.0
+2022,Q4,Arunachal Pradesh,Lepa Rada,4,11158.0
+2022,Q4,Arunachal Pradesh,Tawang,32,117810.0
+2022,Q4,Arunachal Pradesh,Namsai,25,52176.0
+2022,Q2,Arunachal Pradesh,Lower Dibang Valley,13,25061.0
+2022,Q2,Arunachal Pradesh,Lower Subansiri,7,13328.0
+2022,Q2,Arunachal Pradesh,Longding,3,6396.0
+2022,Q2,Arunachal Pradesh,West Siang,24,54485.0
+2022,Q2,Arunachal Pradesh,Kamle,2,1353.0
+2022,Q2,Arunachal Pradesh,Upper Siang,2,7050.0
+2022,Q2,Arunachal Pradesh,Tirap,15,32728.0
+2022,Q2,Arunachal Pradesh,Papum Pare,310,752159.0
+2022,Q2,Arunachal Pradesh,Kurung Kumey,2,3224.0
+2022,Q2,Arunachal Pradesh,Lower Siang,3,9427.0
+2022,Q2,Arunachal Pradesh,Kra Daadi,3,4261.0
+2022,Q2,Arunachal Pradesh,Changlang,25,51823.0
+2022,Q2,Arunachal Pradesh,West Kameng,47,115575.0
+2022,Q2,Arunachal Pradesh,East Siang,29,107087.0
+2022,Q2,Arunachal Pradesh,Upper Subansiri,4,1295.0
+2022,Q2,Arunachal Pradesh,East Kameng,10,17345.0
+2022,Q2,Arunachal Pradesh,Lohit,21,59273.0
+2022,Q2,Arunachal Pradesh,Lepa Rada,4,2554.0
+2022,Q2,Arunachal Pradesh,Tawang,26,61225.0
+2022,Q2,Arunachal Pradesh,Namsai,14,34582.0
+2020,Q4,Bihar,Madhepura,126,75974.0
+2020,Q4,Bihar,Purnia,242,168783.0
+2020,Q4,Bihar,Nalanda,261,200124.0
+2020,Q4,Bihar,Buxar,114,120688.0
+2020,Q4,Bihar,Darbhanga,375,329076.0
+2020,Q4,Bihar,Nawada,135,95287.0
+2020,Q4,Bihar,Jamui,102,60007.0
+2020,Q4,Bihar,Sheikhpura,38,44180.0
+2020,Q4,Bihar,Siwan,261,259428.0
+2020,Q4,Bihar,Muzaffarpur,616,462851.0
+2020,Q4,Bihar,Patna,1831,1396144.0
+2020,Q4,Bihar,Jehanabad,82,61829.0
+2020,Q4,Bihar,Rohtas,231,170841.0
+2020,Q4,Bihar,Begusarai,300,260192.0
+2020,Q4,Bihar,Supaul,133,85336.0
+2020,Q4,Bihar,Sitamarhi,228,175510.0
+2020,Q4,Bihar,Saran,410,376021.0
+2020,Q4,Bihar,Arwal,57,50923.0
+2020,Q4,Bihar,Vaishali,445,381786.0
+2020,Q4,Bihar,Pashchim Champaran,298,181558.0
+2020,Q4,Bihar,Gopalganj,234,205451.0
+2020,Q4,Bihar,Lakhisarai,79,58544.0
+2020,Q4,Bihar,Aurangabad,207,163931.0
+2020,Q4,Bihar,Kaimur Bhabua,56,44044.0
+2020,Q4,Bihar,Araria,167,99884.0
+2020,Q4,Bihar,Munger,134,117691.0
+2020,Q4,Bihar,Katihar,187,140608.0
+2020,Q4,Bihar,Khagaria,119,98847.0
+2020,Q4,Bihar,Saharsa,195,148251.0
+2020,Q4,Bihar,Bhagalpur,332,281912.0
+2020,Q4,Bihar,Madhubani,362,312107.0
+2020,Q4,Bihar,Kishanganj,97,89033.0
+2020,Q4,Bihar,Gaya,366,260585.0
+2020,Q4,Bihar,Samastipur,404,405354.0
+2020,Q4,Bihar,Banka,90,68459.0
+2020,Q4,Bihar,Purbi Champaran,336,195193.0
+2020,Q4,Bihar,Sheohar,74,54287.0
+2020,Q4,Bihar,Bhojpur,189,160213.0
+2020,Q2,Bihar,Madhepura,35,8811.0
+2020,Q2,Bihar,Purnia,71,15152.0
+2020,Q2,Bihar,Nalanda,80,16236.0
+2020,Q2,Bihar,Buxar,30,6935.0
+2020,Q2,Bihar,Darbhanga,103,21997.0
+2020,Q2,Bihar,Nawada,28,6213.0
+2020,Q2,Bihar,Jamui,27,5918.0
+2020,Q2,Bihar,Sheikhpura,5,1208.0
+2020,Q2,Bihar,Siwan,70,15029.0
+2020,Q2,Bihar,Muzaffarpur,132,28803.0
+2020,Q2,Bihar,Patna,685,126689.0
+2020,Q2,Bihar,Jehanabad,16,4139.0
+2020,Q2,Bihar,Rohtas,72,14897.0
+2020,Q2,Bihar,Begusarai,158,31671.0
+2020,Q2,Bihar,Supaul,38,9106.0
+2020,Q2,Bihar,Sitamarhi,51,12131.0
+2020,Q2,Bihar,Saran,74,17237.0
+2020,Q2,Bihar,Arwal,11,2595.0
+2020,Q2,Bihar,Vaishali,86,20680.0
+2020,Q2,Bihar,Pashchim Champaran,92,20072.0
+2020,Q2,Bihar,Gopalganj,46,10933.0
+2020,Q2,Bihar,Lakhisarai,10,2176.0
+2020,Q2,Bihar,Aurangabad,54,13266.0
+2020,Q2,Bihar,Kaimur Bhabua,17,4108.0
+2020,Q2,Bihar,Araria,43,10368.0
+2020,Q2,Bihar,Munger,43,8940.0
+2020,Q2,Bihar,Katihar,58,11482.0
+2020,Q2,Bihar,Khagaria,28,6062.0
+2020,Q2,Bihar,Saharsa,62,11611.0
+2020,Q2,Bihar,Bhagalpur,96,22602.0
+2020,Q2,Bihar,Madhubani,89,19995.0
+2020,Q2,Bihar,Kishanganj,30,6017.0
+2020,Q2,Bihar,Gaya,117,24619.0
+2020,Q2,Bihar,Samastipur,79,18009.0
+2020,Q2,Bihar,Banka,21,4877.0
+2020,Q2,Bihar,Purbi Champaran,100,22466.0
+2020,Q2,Bihar,Sheohar,2,462.0
+2020,Q2,Bihar,Bhojpur,57,12109.0
+2020,Q3,Bihar,Madhepura,144,28460.0
+2020,Q3,Bihar,Purnia,292,61193.0
+2020,Q3,Bihar,Nalanda,230,46996.0
+2020,Q3,Bihar,Buxar,104,20594.0
+2020,Q3,Bihar,Darbhanga,325,73191.0
+2020,Q3,Bihar,Nawada,101,19106.0
+2020,Q3,Bihar,Jamui,127,25040.0
+2020,Q3,Bihar,Sheikhpura,42,11522.0
+2020,Q3,Bihar,Siwan,200,41800.0
+2020,Q3,Bihar,Muzaffarpur,752,179003.0
+2020,Q3,Bihar,Patna,1926,427322.0
+2020,Q3,Bihar,Jehanabad,71,16899.0
+2020,Q3,Bihar,Rohtas,244,50868.0
+2020,Q3,Bihar,Begusarai,271,63851.0
+2020,Q3,Bihar,Supaul,116,24116.0
+2020,Q3,Bihar,Sitamarhi,196,37279.0
+2020,Q3,Bihar,Saran,323,78623.0
+2020,Q3,Bihar,Arwal,26,6040.0
+2020,Q3,Bihar,Vaishali,408,89031.0
+2020,Q3,Bihar,Pashchim Champaran,257,50327.0
+2020,Q3,Bihar,Gopalganj,186,50130.0
+2020,Q3,Bihar,Lakhisarai,70,16465.0
+2020,Q3,Bihar,Aurangabad,196,48288.0
+2020,Q3,Bihar,Kaimur Bhabua,91,21373.0
+2020,Q3,Bihar,Araria,163,35425.0
+2020,Q3,Bihar,Munger,132,29124.0
+2020,Q3,Bihar,Katihar,173,35362.0
+2020,Q3,Bihar,Khagaria,102,27429.0
+2020,Q3,Bihar,Saharsa,193,45726.0
+2020,Q3,Bihar,Bhagalpur,325,80091.0
+2020,Q3,Bihar,Madhubani,272,56233.0
+2020,Q3,Bihar,Kishanganj,102,20624.0
+2020,Q3,Bihar,Gaya,408,85332.0
+2020,Q3,Bihar,Samastipur,344,81819.0
+2020,Q3,Bihar,Banka,76,16476.0
+2020,Q3,Bihar,Purbi Champaran,497,111197.0
+2020,Q3,Bihar,Sheohar,36,8231.0
+2020,Q3,Bihar,Bhojpur,212,40516.0
+2020,Q4,Delhi,South,622,567678.0
+2020,Q4,Delhi,Central,778,611387.0
+2020,Q4,Delhi,New Delhi,1030,945117.0
+2020,Q4,Delhi,West,1383,1065762.0
+2020,Q4,Delhi,South West,1094,1007667.0
+2020,Q4,Delhi,South East Delhi,1240,965278.0
+2020,Q4,Delhi,Shahdara,578,464731.0
+2020,Q4,Delhi,North East,515,436697.0
+2020,Q4,Delhi,East,732,564969.0
+2020,Q4,Delhi,North West,993,770313.0
+2020,Q4,Delhi,North,760,645843.0
+2020,Q2,Delhi,South,1251,206601.0
+2020,Q2,Delhi,Central,971,154625.0
+2020,Q2,Delhi,New Delhi,881,152882.0
+2020,Q2,Delhi,West,2159,341511.0
+2020,Q2,Delhi,South West,1131,186173.0
+2020,Q2,Delhi,South East Delhi,1438,232946.0
+2020,Q2,Delhi,Shahdara,435,73327.0
+2020,Q2,Delhi,North East,319,52854.0
+2020,Q2,Delhi,East,1247,188078.0
+2020,Q2,Delhi,North West,1148,184911.0
+2020,Q2,Delhi,North,736,123572.0
+2020,Q3,Delhi,South,637,157653.0
+2020,Q3,Delhi,Central,672,153666.0
+2020,Q3,Delhi,New Delhi,652,161870.0
+2020,Q3,Delhi,West,1250,330947.0
+2020,Q3,Delhi,South West,789,243882.0
+2020,Q3,Delhi,South East Delhi,922,240168.0
+2020,Q3,Delhi,Shahdara,316,73604.0
+2020,Q3,Delhi,North East,306,69506.0
+2020,Q3,Delhi,East,641,163616.0
+2020,Q3,Delhi,North West,815,195772.0
+2020,Q3,Delhi,North,588,136601.0
+2023,Q3,Goa,North Goa,2161,3229062.0
+2023,Q3,Goa,South Goa,1766,2416992.0
+2023,Q1,Goa,North Goa,2130,3216159.0
+2023,Q1,Goa,South Goa,1967,2643390.0
+2023,Q4,Goa,North Goa,2725,4320025.0
+2023,Q4,Goa,South Goa,2158,3090976.0
+2023,Q2,Goa,North Goa,2231,3373064.0
+2023,Q2,Goa,South Goa,1935,2557737.0
+2020,Q2,Chhattisgarh,Dhamtari,15,3906.0
+2020,Q2,Chhattisgarh,Korba,64,13184.0
+2020,Q2,Chhattisgarh,Surajpur,14,3146.0
+2020,Q2,Chhattisgarh,Baloda Bazar,11,3032.0
+2020,Q2,Chhattisgarh,Sukma,6,1571.0
+2020,Q2,Chhattisgarh,Raigarh,101,19804.0
+2020,Q2,Chhattisgarh,Janjgir Champa,97,19462.0
+2020,Q2,Chhattisgarh,Jashpur,23,4935.0
+2020,Q2,Chhattisgarh,Balod,7,1737.0
+2020,Q2,Chhattisgarh,Kabirdham,17,3315.0
+2020,Q2,Chhattisgarh,Surguja,77,14582.0
+2020,Q2,Chhattisgarh,Dantewada,20,4174.0
+2020,Q2,Chhattisgarh,Gariyaband,9,3572.0
+2020,Q2,Chhattisgarh,Durg,172,37102.0
+2020,Q2,Chhattisgarh,Rajnandgaon,56,11803.0
+2020,Q2,Chhattisgarh,Raipur,410,81039.0
+2020,Q2,Chhattisgarh,Narayanpur,5,1085.0
+2020,Q2,Chhattisgarh,Kanker,7,1783.0
+2020,Q2,Chhattisgarh,Korea,8,2047.0
+2020,Q2,Chhattisgarh,Mungeli,9,1950.0
+2020,Q2,Chhattisgarh,Bilaspur,138,26772.0
+2020,Q2,Chhattisgarh,Balrampur,8,2116.0
+2020,Q2,Chhattisgarh,Bijapur,6,1432.0
+2020,Q2,Chhattisgarh,Bemetara,14,3017.0
+2020,Q2,Chhattisgarh,Bastar,15,3226.0
+2020,Q2,Chhattisgarh,Kondagaon,9,2310.0
+2020,Q2,Chhattisgarh,Mahasamund,28,6903.0
+2020,Q4,Chhattisgarh,Dhamtari,82,52059.0
+2020,Q4,Chhattisgarh,Korba,212,154943.0
+2020,Q4,Chhattisgarh,Surajpur,61,54006.0
+2020,Q4,Chhattisgarh,Baloda Bazar,144,91702.0
+2020,Q4,Chhattisgarh,Sukma,23,18364.0
+2020,Q4,Chhattisgarh,Raigarh,253,133432.0
+2020,Q4,Chhattisgarh,Janjgir Champa,250,129700.0
+2020,Q4,Chhattisgarh,Jashpur,101,35012.0
+2020,Q4,Chhattisgarh,Balod,70,40588.0
+2020,Q4,Chhattisgarh,Kabirdham,42,9451.0
+2020,Q4,Chhattisgarh,Surguja,84,43343.0
+2020,Q4,Chhattisgarh,Dantewada,42,22626.0
+2020,Q4,Chhattisgarh,Gariyaband,41,22606.0
+2020,Q4,Chhattisgarh,Durg,393,252505.0
+2020,Q4,Chhattisgarh,Rajnandgaon,154,119506.0
+2020,Q4,Chhattisgarh,Raipur,854,518623.0
+2020,Q4,Chhattisgarh,Narayanpur,16,17222.0
+2020,Q4,Chhattisgarh,Kanker,106,72276.0
+2020,Q4,Chhattisgarh,Korea,56,30592.0
+2020,Q4,Chhattisgarh,Mungeli,32,24173.0
+2020,Q4,Chhattisgarh,Bilaspur,341,195612.0
+2020,Q4,Chhattisgarh,Balrampur,59,31171.0
+2020,Q4,Chhattisgarh,Bijapur,36,16356.0
+2020,Q4,Chhattisgarh,Bemetara,58,23476.0
+2020,Q4,Chhattisgarh,Bastar,91,68443.0
+2020,Q4,Chhattisgarh,Kondagaon,43,20563.0
+2020,Q4,Chhattisgarh,Mahasamund,113,51551.0
+2020,Q3,Chhattisgarh,Dhamtari,82,30742.0
+2020,Q3,Chhattisgarh,Korba,249,82657.0
+2020,Q3,Chhattisgarh,Surajpur,57,19706.0
+2020,Q3,Chhattisgarh,Baloda Bazar,137,30918.0
+2020,Q3,Chhattisgarh,Sukma,27,8646.0
+2020,Q3,Chhattisgarh,Raigarh,347,107510.0
+2020,Q3,Chhattisgarh,Janjgir Champa,247,72077.0
+2020,Q3,Chhattisgarh,Jashpur,55,17655.0
+2020,Q3,Chhattisgarh,Balod,65,15411.0
+2020,Q3,Chhattisgarh,Kabirdham,55,11366.0
+2020,Q3,Chhattisgarh,Surguja,135,37853.0
+2020,Q3,Chhattisgarh,Dantewada,38,13078.0
+2020,Q3,Chhattisgarh,Gariyaband,46,12417.0
+2020,Q3,Chhattisgarh,Durg,639,196453.0
+2020,Q3,Chhattisgarh,Rajnandgaon,134,38440.0
+2020,Q3,Chhattisgarh,Raipur,1324,395561.0
+2020,Q3,Chhattisgarh,Narayanpur,32,10680.0
+2020,Q3,Chhattisgarh,Kanker,104,26998.0
+2020,Q3,Chhattisgarh,Korea,73,24156.0
+2020,Q3,Chhattisgarh,Mungeli,37,8747.0
+2020,Q3,Chhattisgarh,Bilaspur,394,110531.0
+2020,Q3,Chhattisgarh,Balrampur,56,15657.0
+2020,Q3,Chhattisgarh,Bijapur,21,6208.0
+2020,Q3,Chhattisgarh,Bemetara,58,16195.0
+2020,Q3,Chhattisgarh,Bastar,83,29453.0
+2020,Q3,Chhattisgarh,Kondagaon,42,10630.0
+2020,Q3,Chhattisgarh,Mahasamund,165,43911.0
+2020,Q4,Assam,Tinsukia,121,110036.0
+2020,Q4,Assam,Lakhimpur,67,58751.0
+2020,Q4,Assam,Kamrup,110,73472.0
+2020,Q4,Assam,Kokrajhar,54,30297.0
+2020,Q4,Assam,Karbi Anglong,29,13855.0
+2020,Q4,Assam,Sivasagar,48,41901.0
+2020,Q4,Assam,Dibrugarh,97,85549.0
+2020,Q4,Assam,South Salmara Mancachar,10,6446.0
+2020,Q4,Assam,Nagaon,147,104375.0
+2020,Q4,Assam,Dhubri,62,32215.0
+2020,Q4,Assam,Golaghat,54,56656.0
+2020,Q4,Assam,Udalguri,27,20128.0
+2020,Q4,Assam,Majuli,7,2174.0
+2020,Q4,Assam,Sonitpur,101,76365.0
+2020,Q4,Assam,Hojai,50,28113.0
+2020,Q4,Assam,Marigaon,34,19642.0
+2020,Q4,Assam,Chirang,13,8033.0
+2020,Q4,Assam,Cachar,91,63874.0
+2020,Q4,Assam,Nalbari,49,25777.0
+2020,Q4,Assam,West Karbi Anglong,13,9967.0
+2020,Q4,Assam,Dhemaji,48,26663.0
+2020,Q4,Assam,Karimganj,45,24940.0
+2020,Q4,Assam,Bongaigaon,69,45817.0
+2020,Q4,Assam,Dima Hasao,5,4452.0
+2020,Q4,Assam,Baksa,46,29371.0
+2020,Q4,Assam,Charaideo,21,18610.0
+2020,Q4,Assam,Darrang,57,39620.0
+2020,Q4,Assam,Kamrup Metropolitan,626,534531.0
+2020,Q4,Assam,Hailakandi,22,14368.0
+2020,Q4,Assam,Barpeta,121,89658.0
+2020,Q4,Assam,Goalpara,50,28453.0
+2020,Q4,Assam,Biswanath,37,21580.0
+2020,Q4,Assam,Jorhat,82,61112.0
+2020,Q2,Assam,Tinsukia,41,8863.0
+2020,Q2,Assam,Lakhimpur,34,7772.0
+2020,Q2,Assam,Kamrup,24,7156.0
+2020,Q2,Assam,Kokrajhar,13,2874.0
+2020,Q2,Assam,Karbi Anglong,12,2671.0
+2020,Q2,Assam,Sivasagar,16,3682.0
+2020,Q2,Assam,Dibrugarh,40,8918.0
+2020,Q2,Assam,South Salmara Mancachar,1,238.0
+2020,Q2,Assam,Nagaon,52,11413.0
+2020,Q2,Assam,Dhubri,19,4391.0
+2020,Q2,Assam,Golaghat,25,5694.0
+2020,Q2,Assam,Udalguri,14,3303.0
+2020,Q2,Assam,Majuli,4,975.0
+2020,Q2,Assam,Sonitpur,46,10879.0
+2020,Q2,Assam,Hojai,11,2588.0
+2020,Q2,Assam,Marigaon,9,2222.0
+2020,Q2,Assam,Chirang,5,1273.0
+2020,Q2,Assam,Cachar,31,6886.0
+2020,Q2,Assam,Nalbari,16,3098.0
+2020,Q2,Assam,West Karbi Anglong,2,462.0
+2020,Q2,Assam,Dhemaji,15,3549.0
+2020,Q2,Assam,Karimganj,27,6710.0
+2020,Q2,Assam,Bongaigaon,30,6850.0
+2020,Q2,Assam,Dima Hasao,8,1453.0
+2020,Q2,Assam,Baksa,20,4391.0
+2020,Q2,Assam,Charaideo,11,2481.0
+2020,Q2,Assam,Darrang,3,750.0
+2020,Q2,Assam,Kamrup Metropolitan,388,73071.0
+2020,Q2,Assam,Hailakandi,4,1088.0
+2020,Q2,Assam,Barpeta,22,5473.0
+2020,Q2,Assam,Goalpara,9,2048.0
+2020,Q2,Assam,Biswanath,3,1172.0
+2020,Q2,Assam,Jorhat,23,5640.0
+2020,Q3,Assam,Tinsukia,82,25873.0
+2020,Q3,Assam,Lakhimpur,41,9115.0
+2020,Q3,Assam,Kamrup,100,27927.0
+2020,Q3,Assam,Kokrajhar,39,15632.0
+2020,Q3,Assam,Karbi Anglong,43,11732.0
+2020,Q3,Assam,Sivasagar,56,17709.0
+2020,Q3,Assam,Dibrugarh,95,28716.0
+2020,Q3,Assam,South Salmara Mancachar,7,1508.0
+2020,Q3,Assam,Nagaon,111,29094.0
+2020,Q3,Assam,Dhubri,32,7379.0
+2020,Q3,Assam,Golaghat,56,13665.0
+2020,Q3,Assam,Udalguri,23,6346.0
+2020,Q3,Assam,Majuli,1,281.0
+2020,Q3,Assam,Sonitpur,88,26070.0
+2020,Q3,Assam,Hojai,29,7810.0
+2020,Q3,Assam,Marigaon,49,8771.0
+2020,Q3,Assam,Chirang,20,3667.0
+2020,Q3,Assam,Cachar,98,28618.0
+2020,Q3,Assam,Nalbari,33,11032.0
+2020,Q3,Assam,West Karbi Anglong,6,1790.0
+2020,Q3,Assam,Dhemaji,38,10985.0
+2020,Q3,Assam,Karimganj,46,13114.0
+2020,Q3,Assam,Bongaigaon,72,20029.0
+2020,Q3,Assam,Dima Hasao,8,2605.0
+2020,Q3,Assam,Baksa,27,6136.0
+2020,Q3,Assam,Charaideo,20,4314.0
+2020,Q3,Assam,Darrang,43,10388.0
+2020,Q3,Assam,Kamrup Metropolitan,698,186125.0
+2020,Q3,Assam,Hailakandi,28,6793.0
+2020,Q3,Assam,Barpeta,98,22486.0
+2020,Q3,Assam,Goalpara,34,10049.0
+2020,Q3,Assam,Biswanath,23,4173.0
+2020,Q3,Assam,Jorhat,62,19518.0
+2020,Q4,Andhra Pradesh,East Godavari,1965,1355741.0
+2020,Q4,Andhra Pradesh,Srikakulam,811,546440.0
+2020,Q4,Andhra Pradesh,Spsr Nellore,1348,810758.0
+2020,Q4,Andhra Pradesh,Vizianagaram,897,651040.0
+2020,Q4,Andhra Pradesh,Visakhapatnam,3464,2203761.0
+2020,Q4,Andhra Pradesh,Prakasam,1190,572976.0
+2020,Q4,Andhra Pradesh,Anantapur,1534,794053.0
+2020,Q4,Andhra Pradesh,Ysr,1165,631876.0
+2020,Q4,Andhra Pradesh,West Godavari,1390,906282.0
+2020,Q4,Andhra Pradesh,Kurnool,1092,500768.0
+2020,Q4,Andhra Pradesh,Chittoor,1727,1168506.0
+2020,Q4,Andhra Pradesh,Guntur,2570,1620649.0
+2020,Q4,Andhra Pradesh,Krishna,2311,1222782.0
+2020,Q2,Andhra Pradesh,East Godavari,1913,352220.0
+2020,Q2,Andhra Pradesh,Srikakulam,536,107046.0
+2020,Q2,Andhra Pradesh,Spsr Nellore,931,176423.0
+2020,Q2,Andhra Pradesh,Vizianagaram,893,166029.0
+2020,Q2,Andhra Pradesh,Visakhapatnam,3504,614212.0
+2020,Q2,Andhra Pradesh,Prakasam,847,161709.0
+2020,Q2,Andhra Pradesh,Anantapur,2739,485777.0
+2020,Q2,Andhra Pradesh,Ysr,1978,343002.0
+2020,Q2,Andhra Pradesh,West Godavari,1074,202289.0
+2020,Q2,Andhra Pradesh,Kurnool,825,158720.0
+2020,Q2,Andhra Pradesh,Chittoor,2228,395099.0
+2020,Q2,Andhra Pradesh,Guntur,1938,344326.0
+2020,Q2,Andhra Pradesh,Krishna,2698,475539.0
+2020,Q3,Andhra Pradesh,East Godavari,3783,970549.0
+2020,Q3,Andhra Pradesh,Srikakulam,1535,383049.0
+2020,Q3,Andhra Pradesh,Spsr Nellore,5509,1259159.0
+2020,Q3,Andhra Pradesh,Vizianagaram,2999,691281.0
+2020,Q3,Andhra Pradesh,Visakhapatnam,7906,1892376.0
+2020,Q3,Andhra Pradesh,Prakasam,2565,722751.0
+2020,Q3,Andhra Pradesh,Anantapur,2911,764850.0
+2020,Q3,Andhra Pradesh,Ysr,3397,847519.0
+2020,Q3,Andhra Pradesh,West Godavari,2543,696749.0
+2020,Q3,Andhra Pradesh,Kurnool,3493,841970.0
+2020,Q3,Andhra Pradesh,Chittoor,4422,1178762.0
+2020,Q3,Andhra Pradesh,Guntur,4230,1083584.0
+2020,Q3,Andhra Pradesh,Krishna,4519,1093882.0
+2022,Q4,Andaman & Nicobar Islands,North And Middle Andaman,112,224198.0
+2022,Q4,Andaman & Nicobar Islands,South Andaman,750,1114857.0
+2022,Q4,Andaman & Nicobar Islands,Nicobars,39,102155.0
+2022,Q3,Andaman & Nicobar Islands,North And Middle Andaman,70,129013.0
+2022,Q3,Andaman & Nicobar Islands,South Andaman,535,687813.0
+2022,Q3,Andaman & Nicobar Islands,Nicobars,38,85640.0
+2022,Q2,Andaman & Nicobar Islands,North And Middle Andaman,45,90403.0
+2022,Q2,Andaman & Nicobar Islands,South Andaman,430,633029.0
+2022,Q2,Andaman & Nicobar Islands,Nicobars,26,56308.0
+2022,Q1,Andaman & Nicobar Islands,North And Middle Andaman,48,85229.0
+2022,Q1,Andaman & Nicobar Islands,South Andaman,692,982206.0
+2022,Q1,Andaman & Nicobar Islands,Nicobars,28,63852.0
